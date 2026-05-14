@@ -124,36 +124,61 @@ def recommend_by_vibe(vibe: str) -> str:
 # TOOL 3 — Get Review (Returns Review Data for Lab 2 Demonstration)
 @mcp.tool()
 def get_review(restaurant_name: str) -> str:
-    """Retrieve the full review for a restaurant."""
+    """Retrieve a user review for a restaurant by name.
+
+    Performs a join: looks up the restaurant in the structured catalogue to
+    get its itemId, then finds a matching review in the reviews dataset.
+    """
+    restaurants = load_restaurant_data()
     reviews = load_review_data()
     query = restaurant_name.lower().strip()
 
-    # Find the matching review
-    matching_review = None
-    for review in reviews:
-        if query in review["restaurant_name"].lower():
-            matching_review = review
+    # Step 1: find the restaurant by name and get its itemId.
+    matching_restaurant = None
+    for restaurant in restaurants:
+        name = restaurant["name"].lower()
+        if query in name or name in query:
+            matching_restaurant = restaurant
             break
-    
-    # Return a not found message if no review matches the query
-    if not matching_review:
+
+    if not matching_restaurant:
         return json.dumps(
             {
                 "status": "not_found",
-                "message": f"No review found for '{restaurant_name}'.",
+                "message": f"No restaurant found matching '{restaurant_name}'.",
             },
             indent=2,
         )
 
+    item_id = matching_restaurant["itemId"]
+
+    # Step 2: find a review with this itemId.
+    matching_review = None
+    for review in reviews:
+        if review.get("itemId") == item_id:
+            matching_review = review
+            break
+
+    if not matching_review:
+        return json.dumps(
+            {
+                "status": "not_found",
+                "message": f"No review available for '{matching_restaurant['name']}' (itemId={item_id}).",
+            },
+            indent=2,
+        )
+
+    # Step 3: build the response with the actual field names from the dataset.
     return json.dumps(
         {
             "status": "found",
-            "restaurant": matching_review["restaurant_name"],
-            "reviewer": matching_review["reviewer"],
-            "rating": matching_review["rating"],
-            "review_text": matching_review["review_text"],
-            "image_description": matching_review.get("image_description", "N/A"),
-            "visit_date": matching_review.get("visit_date", "N/A"),
+            "restaurant": matching_restaurant["name"],
+            "reviewer": matching_review.get("userId", "anonymous"),
+            "rating": matching_review.get("rating"),
+            "title": matching_review.get("title", ""),
+            "review_text": matching_review.get("text", ""),
+            "date": matching_review.get("date", "N/A"),
+            "image_captions": matching_review.get("image_captions", []),
         },
         indent=2,
     )
