@@ -95,7 +95,7 @@ You can get a key at [console.anthropic.com](https://console.anthropic.com/).
 ### 5. Run the app
 
 ```bash
-python app.py
+python -m connoisseur.app
 ```
 
 Then open the local URL printed in the terminal (usually `http://127.0.0.1:7860`).
@@ -135,17 +135,29 @@ This project is built in phases. The current version is a working baseline; upco
 
 ```
 connoisseur-companion/
-├── app.py                            # Gradio host + ReAct loop
-├── server.py                         # MCP server + 3 tools
-├── client.py                         # Demo MCP client
-├── test.py                           # Smoke test for the server
-├── structured_restaurant_data.json   # Restaurant catalogue
-├── augmented_user_review.json        # User reviews
-├── California-Culinary-Map.txt       # Free-text culinary guide
-├── .env                              # API keys (not committed)
+├── connoisseur/                # Application code (package)
+│   ├── __init__.py
+│   ├── app.py                  # Gradio host + ReAct loop
+│   └── server.py               # MCP server with 3 tools
+│
+├── data/                       # Restaurant catalogue, reviews, culinary map
+│   ├── structured-restaurant-data.json
+│   ├── augmented-user-review.json
+│   └── California-Culinary-Map.txt
+│
+├── tests/                      # pytest test suite
+│   ├── __init__.py
+│   └── test_server.py
+│
+├── docs/                       # Documentation assets
+│   └── demo.png
+│
+├── .env                        # API keys (not committed)
 ├── .gitignore
-├── requirements.txt
-└── README.md
+├── LICENSE
+├── pytest.ini
+├── README.md
+└── requirements.txt        # Dependencies
 ```
 
 ## Author

@@ -11,7 +11,9 @@ mcp = FastMCP("Connoisseur-Server")
 
 
 # Data Paths
-DATA_DIR = Path(__file__).parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJECT_ROOT / "data"
+
 CULINARY_MAP_PATH = DATA_DIR / "California-Culinary-Map.txt"
 RESTAURANT_DATA_PATH = DATA_DIR / "structured-restaurant-data.json"
 REVIEW_DATA_PATH = DATA_DIR / "augmented-user-review.json"

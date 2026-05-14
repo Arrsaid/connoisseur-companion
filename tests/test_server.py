@@ -13,7 +13,7 @@ from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 
 # Path to the server script, resolved relative to this test file.
-SERVER_SCRIPT = str(Path(__file__).parent.parent / "server.py")
+SERVER_SCRIPT = str(Path(__file__).parent.parent / "connoisseur" / "server.py")
 
 SERVER_PARAMS = StdioServerParameters(
     command="python",
