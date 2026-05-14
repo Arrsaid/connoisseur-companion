@@ -44,7 +44,7 @@ async def handle_sampling(params: CreateMessageRequestParams) -> CreateMessageRe
     print(f"  Prompt preview: {prompt[:150]}...")
 
     response = anthropic_client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-haiku-4-5-20251001",
         max_tokens=params.maxTokens or 200,
         messages=[{"role": "user", "content": prompt}],
     )
@@ -55,7 +55,7 @@ async def handle_sampling(params: CreateMessageRequestParams) -> CreateMessageRe
     return CreateMessageResult(
         role="assistant",
         content=TextContent(type="text", text=response_text),
-        model="claude-sonnet-4-20250514",
+        model="claude-haiku-4-5-20251001",
     )
 
 
@@ -94,7 +94,6 @@ async def verify_connection():
             # list_tools() sends a "tools/list" JSON-RPC request to the server
             tools_result = await session.list_tools()
             tool_names = [tool.name for tool in tools_result.tools]
-            print("--- START SCREENSHOT ---")
             print(f"\nDiscovered {len(tool_names)} tools:")
             for tool in tools_result.tools:
                 print(f"  - {tool.name}: {tool.description[:80]}...")
@@ -115,7 +114,6 @@ async def verify_connection():
             for root in roots:
                 print(f"  - {root.name}: {root.uri}")
 
-            print("--- END SCREENSHOT ---")
 
 
 # DEMOS — Call each tool through the MCP protocol

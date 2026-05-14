@@ -13,9 +13,7 @@ async def run_test():
             await session.initialize()
             result = await session.call_tool("get_restaurant_info", arguments={"restaurant_name": "Iron"})
             
-            print("\n--- START SCREENSHOT ---")
             print(result.content[0].text)
-            print("--- END SCREENSHOT ---\n")
 
 if __name__ == "__main__":
     asyncio.run(run_test())

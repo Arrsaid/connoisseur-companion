@@ -2,8 +2,7 @@
 
 > A conversational AI agent that recommends California restaurants by name, cuisine, or vibe — powered by **Claude** and the **Model Context Protocol (MCP)**.
 
-[//]: # (Add a screenshot or GIF of the app here once available)
-<!-- ![demo](docs/demo.gif) -->
+![Connoisseur Companion demo](docs/demo.png)
 
 ## What it does
 
