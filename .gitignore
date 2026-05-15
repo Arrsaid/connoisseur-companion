@@ -3,3 +3,11 @@
 .venv/
 __pycache__/
 *.pyc
+# Data files
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
