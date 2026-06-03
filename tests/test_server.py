@@ -44,11 +44,11 @@ async def list_tools() -> list[str]:
 async def test_get_restaurant_info_found():
     """An existing restaurant name returns status=found with results."""
     data = await call_tool(
-        "get_restaurant_info", {"restaurant_name": "Iron & Embers"}
+        "get_restaurant_info", {"restaurant_name": "La Mangue Amère"}
     )
     assert data["status"] == "found"
     assert data["count"] >= 1
-    assert "Iron" in data["results"][0]["name"]
+    assert "Mangue" in data["results"][0]["name"]
 
 
 async def test_get_restaurant_info_not_found():
@@ -61,18 +61,18 @@ async def test_get_restaurant_info_not_found():
 
 
 async def test_get_restaurant_info_partial_match():
-    """A partial name like 'Iron' matches 'Iron & Embers'."""
-    data = await call_tool("get_restaurant_info", {"restaurant_name": "Iron"})
+    """A partial name like 'Mangue' matches 'La Mangue Amère'."""
+    data = await call_tool("get_restaurant_info", {"restaurant_name": "Mangue"})
     assert data["status"] == "found"
     names = [r["name"] for r in data["results"]]
-    assert any("Iron" in n for n in names)
+    assert any("Mangue" in n for n in names)
 
 
 # recommend_by_vibe -----------------------------------------------------------
 
 async def test_recommend_by_vibe_returns_structure():
     """The response has the three expected top-level keys."""
-    data = await call_tool("recommend_by_vibe", {"vibe": "moody"})
+    data = await call_tool("recommend_by_vibe", {"vibe": "convivial"})
     assert "vibe_searched" in data
     assert "structured_matches" in data
     assert "raw_text_excerpts" in data
@@ -82,9 +82,9 @@ async def test_recommend_by_vibe_returns_structure():
 
 async def test_recommend_by_vibe_known_vibe():
     """A vibe known to exist in the data returns at least one match."""
-    data = await call_tool("recommend_by_vibe", {"vibe": "moody"})
+    data = await call_tool("recommend_by_vibe", {"vibe": "convivial"})
     total_matches = len(data["structured_matches"]) + len(data["raw_text_excerpts"])
-    assert total_matches > 0, "Expected at least one match for 'moody'"
+    assert total_matches > 0, "Expected at least one match for 'convivial'"
 
 
 # get_review ------------------------------------------------------------------
@@ -94,7 +94,7 @@ async def test_get_review_found_for_known_restaurant():
     """A restaurant with a review returns status=found with non-empty text."""
     # Use the first restaurant that has a review available.
     # We pick by name from the structured catalogue, since reviews are joined by itemId.
-    restaurant_with_review = "Gilded Artichoke"  # known to have a review
+    restaurant_with_review = "La Mangue Amère"  # known to have a review
 
     data = await call_tool(
         "get_review", {"restaurant_name": restaurant_with_review}

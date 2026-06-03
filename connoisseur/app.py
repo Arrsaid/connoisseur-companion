@@ -24,8 +24,8 @@ MAX_TOKENS = 1024
 MAX_AGENT_STEPS = 10  # safety cap on the ReAct loop
 
 SYSTEM_PROMPT = """You are the Connoisseur Companion, a friendly assistant who \
-helps people discover restaurants in California. You have access to a curated \
-database via tools.
+helps people discover restaurants in Lyon, France. You have access to a curated \
+database of 148 carefully selected Lyon restaurants via tools.
 
 Available tools:
 1. get_restaurant_info — look up a specific restaurant by name.
@@ -137,27 +137,27 @@ async def handle_chat(user_message, history):
 with gr.Blocks(title="Connoisseur Companion") as demo:
     gr.Markdown(
         "# Connoisseur Companion\n"
-        "Your AI guide to California's restaurant scene. "
+        "Your AI guide to Lyon's restaurant scene. "
         "Ask me about restaurants by name, cuisine, or vibe!"
     )
 
     chatbot = gr.Chatbot(height=500, type="messages")
     msg_input = gr.Textbox(
         label="Ask about restaurants",
-        placeholder='e.g., "Find me a moody spot in DTLA" or "Tell me about Sakura Garden"',
+        placeholder='e.g., "Find me a cozy bouchon in Vieux Lyon" or "Tell me about Daniel et Denise"',
     )
 
     with gr.Row():
-        btn1 = gr.Button("Find moody restaurants", size="sm")
-        btn2 = gr.Button("Tell me about Iron & Embers", size="sm")
-        btn3 = gr.Button("Zen dining in Little Tokyo?", size="sm")
+        btn1 = gr.Button("Find cozy restaurants", size="sm")
+        btn2 = gr.Button("Tell me about a Lyon bouchon", size="sm")
+        btn3 = gr.Button("Romantic dinner in Lyon?", size="sm")
 
     msg_input.submit(handle_chat, [msg_input, chatbot], [chatbot])
     msg_input.submit(lambda: "", None, msg_input)
 
-    btn1.click(handle_chat, [gr.State("Find me some moody restaurants"), chatbot], [chatbot])
-    btn2.click(handle_chat, [gr.State("Tell me about Iron & Embers"), chatbot], [chatbot])
-    btn3.click(handle_chat, [gr.State("What's a zen dining experience in Little Tokyo?"), chatbot], [chatbot])
+    btn1.click(handle_chat, [gr.State("Find me some cozy restaurants in Lyon"), chatbot], [chatbot])
+    btn2.click(handle_chat, [gr.State("Tell me about a traditional Lyon bouchon"), chatbot], [chatbot])
+    btn3.click(handle_chat, [gr.State("Where would you recommend for a romantic dinner in Lyon?"), chatbot], [chatbot])
 
 
 if __name__ == "__main__":

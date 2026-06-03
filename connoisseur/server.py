@@ -14,22 +14,22 @@ mcp = FastMCP("Connoisseur-Server")
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 
-CULINARY_MAP_PATH = DATA_DIR / "California-Culinary-Map.txt"
-RESTAURANT_DATA_PATH = DATA_DIR / "structured-restaurant-data.json"
-REVIEW_DATA_PATH = DATA_DIR / "augmented-user-review.json"
+CULINARY_MAP_PATH = DATA_DIR / "lyon-culinary-map.txt"
+RESTAURANT_DATA_PATH = DATA_DIR / "lyon-restaurants.json"
+REVIEW_DATA_PATH = DATA_DIR / "lyon-reviews.json"
 
 
 
 # Helper Functions
 def load_restaurant_data() -> list[dict]:
-    """Load the structured restaurant data produced in Module 1."""
-    with open(RESTAURANT_DATA_PATH, "r") as f:
+    """Load the structured restaurant data."""
+    with open(RESTAURANT_DATA_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def load_review_data() -> list[dict]:
-    """Load the augmented user reviews produced in Module 1."""
-    with open(REVIEW_DATA_PATH, "r") as f:
+    """Load the augmented user reviews."""
+    with open(REVIEW_DATA_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -40,7 +40,7 @@ def get_culinary_map() -> str:
     """The full raw California Culinary Map text from Module 1.
     Contains detailed descriptions of 100+ restaurants across California
     including their vibes, cuisines, ratings, and price ranges."""
-    return CULINARY_MAP_PATH.read_text()
+    return CULINARY_MAP_PATH.read_text(encoding="utf-8")
 
 
 
@@ -105,7 +105,7 @@ def recommend_by_vibe(vibe: str) -> str:
             )
 
     # Pass 2: Search the raw text for additional matches 
-    raw_text = CULINARY_MAP_PATH.read_text()
+    raw_text = CULINARY_MAP_PATH.read_text(encoding="utf-8")
     paragraphs = raw_text.split("\n\n")
     text_excerpts = []
     for para in paragraphs:
