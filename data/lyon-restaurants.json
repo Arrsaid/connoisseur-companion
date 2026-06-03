@@ -1,0 +1,3746 @@
+[
+  {
+    "name": "Lyon-Dakar",
+    "location": "227 rue de Crequi, 69003 Lyon France",
+    "type": "African",
+    "food_style": "African",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Thiéboudienne (Senegalese fish and rice)",
+      "Grilled lamb with sauce d'arachide",
+      "Mafé (groundnut stew)"
+    ],
+    "vibe": [
+      "convivial",
+      "casual",
+      "vibrant",
+      "unpretentious",
+      "neighbourhood-focused"
+    ],
+    "environment": "Lyon-Dakar brings authentic West African cooking to the Croix-Rousse neighbourhood, moving beyond the city's traditional Lyonnais repertoire with grilled meats, rich stews, and regional specialities prepared without nostalgia or irony. The restaurant occupies a straightforward dining space where the food speaks louder than decor, drawing a steady crowd of locals and curious eaters seeking genuine flavour over aesthetics.",
+    "shortcomings": [
+      "Service can be slow during peak hours, reflecting kitchen-focused priorities over table pacing",
+      "Modest wine list tilts toward affordable reds and house selections; pairing options limited for adventurous diners"
+    ],
+    "itemId": 1000000
+  },
+  {
+    "name": "Mattsam Restaurant Messob",
+    "location": "85 rue Massena, 69006 Lyon France",
+    "type": "African",
+    "food_style": "African, Ethiopian",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Injera with doro wot (spiced chicken stew)",
+      "Misir wot (red lentil braise)",
+      "Mixed platter for sharing"
+    ],
+    "vibe": [
+      "communal",
+      "warm",
+      "unpretentious",
+      "vibrant"
+    ],
+    "environment": "Mattsam Restaurant Messob brings authentic Ethiopian and broader African cuisine to Lyon's Presqu'île district, where injera bread and slow-cooked stews anchor a menu that prioritizes generosity and tradition over refinement. The restaurant occupies a middle ground between casual neighborhood spot and more deliberate dining destination, drawing both regulars seeking comfort and curious explorers of Lyon's increasingly diverse food landscape.",
+    "shortcomings": [
+      "Service can lag during peak hours, reflecting stretched capacity rather than indifference",
+      "Spice levels and flavor balance occasionally inconsistent across dishes, suggesting variable kitchen execution"
+    ],
+    "itemId": 1000001
+  },
+  {
+    "name": "La Mangue Amère",
+    "location": "7 rue du Jardin des Plantes, 69001 Lyon France",
+    "type": "African",
+    "food_style": "African",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Mafé",
+      "Thiéboudienne",
+      "Poulet yassa"
+    ],
+    "vibe": [
+      "intimate",
+      "convivial",
+      "understated",
+      "authentically modest"
+    ],
+    "environment": "La Mangue Amère offers a refreshing departure from Lyon's classical French dining landscape, bringing West African flavors to the Presqu'île with unpretentious conviction. The restaurant's steady 4.0 rating across 91 reviews suggests a solid neighborhood establishment that respects its ingredients and doesn't oversell itself, delivering honest, flavorful cooking in a straightforward setting.",
+    "shortcomings": [
+      "Limited seating and modest décor mean the experience trades visual polish for authenticity—expect functionality over ambiance",
+      "Price positioning at the mid-to-upper end for African cuisine may perplex diners expecting budget-friendly pricing, though likely justified by ingredient quality and technique"
+    ],
+    "itemId": 1000002
+  },
+  {
+    "name": "Two Amigos (Ampère Victor Hugo)",
+    "location": "1 rue Henri IV, 69002 Lyon France",
+    "type": "American",
+    "food_style": "American, Mexican, Latin",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Tacos carnitas",
+      "Enchiladas vertes",
+      "Pulled pork tortas"
+    ],
+    "vibe": [
+      "casual-cosmopolitan",
+      "lively",
+      "counter-culture",
+      "unpretentious",
+      "street-food-forward"
+    ],
+    "environment": "Two Amigos carves out distinctly non-Lyonnaise territory in the Ampère neighbourhood, pivoting from bouchon tradition toward Tex-Mex and Latin American street food with genuine conviction. The kitchen treats American and Mexican flavours with respect rather than novelty—expect well-executed tacos, bold salsas, and grilled proteins that stand apart from the city's charcuterie-heavy dining landscape.",
+    "shortcomings": [
+      "Limited wine pairing expertise—the list skews toward beer and spirits, which may disappoint Lyonnais wine devotees",
+      "High noise levels during peak hours can make conversation difficult; the popularity (346 reviews, 4.5/5) means securing a table without advance booking is unreliable"
+    ],
+    "itemId": 1000003
+  },
+  {
+    "name": "Delicatessen",
+    "location": "6 rue Savy, 69001 Lyon France",
+    "type": "American",
+    "food_style": "American, Barbecue",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "smoked brisket",
+      "pulled pork sandwich",
+      "barbecue ribs"
+    ],
+    "vibe": [
+      "casual-american",
+      "relaxed",
+      "meat-focused",
+      "unpretentious",
+      "social"
+    ],
+    "environment": "Delicatessen brings straightforward American barbecue and deli sensibilities to the heart of Lyon's Presqu'île district, offering a refreshing counterpoint to the city's traditional gastronomic expectations. The kitchen executes the fundamentals—slow-smoked meats, robust sauces, generous portions—with enough care to justify consistent local approval, though without the ceremonial weight of a bouchon or haute cuisine establishment. It's a place where diners come to eat well without pretense.",
+    "shortcomings": [
+      "At mid-to-upper price range for casual American fare, portions and value proposition may disappoint those comparing against Paris-level barbecue options",
+      "Limited seating in the Rue Savy location can result in wait times during peak dinner service; service rhythm occasionally falters under pressure"
+    ],
+    "itemId": 1000004
+  },
+  {
+    "name": "Rem's Pub",
+    "location": "21 quai Perrache, 69002 Lyon France",
+    "type": "American",
+    "food_style": "American",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "burger maison",
+      "chicken wings",
+      "pulled pork sandwich"
+    ],
+    "vibe": [
+      "casual-convivial",
+      "quayside-energy",
+      "unpretentious",
+      "animated"
+    ],
+    "environment": "Rem's Pub sits squarely on the Quai Perrache, trading the formal restraint of Lyon's gastronomic tradition for straightforward American fare and a lively, informal atmosphere. It appeals to those seeking honest burgers and comfort food with a riverside vantage point, rather than the codified ritual of a bouchon or haute cuisine establishment.",
+    "shortcomings": [
+      "American cuisine feels tangential to Lyon's culinary identity, so local diners seeking regional specialties will look elsewhere",
+      "Quayside location and casual appeal invite crowds, particularly weekends, which can dilute the dining experience"
+    ],
+    "itemId": 1000005
+  },
+  {
+    "name": "Chères cousines",
+    "location": "23 rue Bugeaud, 69006 Lyon France",
+    "type": "American",
+    "food_style": "American",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Burger américain",
+      "Mac and cheese maison",
+      "Pulled pork sandwich"
+    ],
+    "vibe": [
+      "casual-American",
+      "neighborhood-friendly",
+      "unpretentious",
+      "laid-back"
+    ],
+    "environment": "Chères cousines brings straightforward American comfort cooking to the Presqu'île district, eschewing Lyon's classical haute cuisine conventions in favor of honest burgers, sandwiches, and seasonal plates executed with genuine care. The restaurant occupies a modest footprint on rue Bugeaud, attracting a loyal local crowd who appreciate accessible pricing and reliable execution over culinary grandstanding.",
+    "shortcomings": [
+      "Limited wine list—difficult for traditionalists seeking proper pairings, though the beer selection compensates",
+      "Small dining room means weekend waits are common; reservations essential during peak hours"
+    ],
+    "itemId": 1000006
+  },
+  {
+    "name": "Mike Restaurant",
+    "location": "49 rue de la Charite, 69002 Lyon France",
+    "type": "American",
+    "food_style": "American",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "burger maison",
+      "côte de boeuf",
+      "ribs"
+    ],
+    "vibe": [
+      "casual",
+      "buzzing",
+      "unpretentious",
+      "contemporary"
+    ],
+    "environment": "Mike Restaurant brings a straightforward American sensibility to the Presqu'île district, offering robust burgers, steaks, and comfort fare in a relaxed setting that eschews the formality of traditional Lyonnais dining. Located on rue de la Charité, it's the kind of place where you come for honest execution rather than reinvention—satisfying rather than revelatory, with an energetic atmosphere that appeals to locals seeking a break from French convention.",
+    "shortcomings": [
+      "Service can lag during peak hours despite the casual format, with table turnover sometimes prioritized over attentiveness",
+      "The mid-to-upper price range (€€-€€€) feels steep for American fare when compared to value-driven traditional bouchons nearby"
+    ],
+    "itemId": 1000007
+  },
+  {
+    "name": "Puerto Argentino",
+    "location": "20 rue de la Rize, 69003 Lyon France",
+    "type": "Argentinian",
+    "food_style": "Argentinian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Côte de boeuf à la braise",
+      "Chimichurri maison",
+      "Empanadas de carne"
+    ],
+    "vibe": [
+      "convivial",
+      "meat-forward",
+      "casual-elegant",
+      "lively"
+    ],
+    "environment": "Puerto Argentino brings the robust flavors of Argentine asado culture to Lyon's Croix-Rousse district, where grilled meats and wine pairings anchor a menu that respects both tradition and technique. The midrange pricing reflects quality cuts and confident preparation rather than fussy plating, making it a solid alternative to Lyon's traditional bouchons for those craving char and smoke over local quenelles.",
+    "shortcomings": [
+      "Limited vegetarian options—the kitchen is unapologetically carnivorous, which may frustrate non-meat eaters",
+      "Service can lag during peak hours; the casual energy sometimes tips into slow pacing rather than relaxed charm"
+    ],
+    "itemId": 1000008
+  },
+  {
+    "name": "Andre Melkonyan",
+    "location": "62 cours Vitton, 69006 Lyon France",
+    "type": "Armenian",
+    "food_style": "Armenian, Eastern European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "kébab arménien",
+      "lula kébab",
+      "lahmacoun"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "neighbourhood-focused",
+      "warm-toned"
+    ],
+    "environment": "André Melkonyan brings authentic Armenian cooking to Lyon's Presqu'île district, with the kind of straightforward hospitality that rewards repeat visits. The kitchen demonstrates genuine technique in slow-cooked meats and layered spice work, anchoring the experience in family tradition rather than fusion experimentation.",
+    "shortcomings": [
+      "service can feel stretched during peak hours, with occasional lapses in pacing",
+      "limited wine program—the Eastern European selections don't always align smoothly with the bolder spice profiles"
+    ],
+    "itemId": 1000009
+  },
+  {
+    "name": "Oncle Dik",
+    "location": "4 rue Bossuet, 69006 Lyon France",
+    "type": "Armenian",
+    "food_style": "Armenian, Lebanese, Mediterranean, European, Eastern European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "lula kebab",
+      "Plateau de mezzé (hummus, baba ganoush, lahmacoun)",
+      "grilled lamb with sumac and fresh herbs"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "eclectic",
+      "neighborhood-focused"
+    ],
+    "environment": "Oncle Dik brings the robust, herbaceous warmth of Armenian and Eastern Mediterranean cooking to a corner of the Presqu'île district, where familiar French and European diners discover lula kebab, charred vegetables, and flatbreads that feel both foreign and oddly welcoming. The kitchen moves confidently between Armenian traditions and Lebanese-Mediterranean inflections, suggesting a chef comfortable with the overlapping culinary geographies of the Levant.",
+    "shortcomings": [
+      "Service can lag during peak hours despite the modest 74-review base suggesting steady traffic; reservations may be necessary on weekends.",
+      "The €€-€€€ positioning occasionally creates tension between pricing ambition and casual execution—value feels slightly optimistic for some diners."
+    ],
+    "itemId": 1000010
+  },
+  {
+    "name": "Le Cambodia",
+    "location": "2 rue de la Loge, 69005 Lyon France",
+    "type": "Asian",
+    "food_style": "Asian, Cambodian, Vietnamese",
+    "rating": 5.0,
+    "price_range": "€",
+    "signatures": [
+      "Amok",
+      "Nom banh chok",
+      "Grilled fish with kampot pepper"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood-focused",
+      "unpretentious",
+      "intimate"
+    ],
+    "environment": "Le Cambodia occupies a modest corner of Vieux Lyon with straightforward Cambodian and Vietnamese cooking that prioritizes clarity of flavor over presentation. The 5.0 rating across 56 reviews suggests consistent execution of Southeast Asian fundamentals—likely fresh herbs, balanced fish sauce-based broths, and confident wok work—rather than refinement or novelty.",
+    "shortcomings": [
+      "Limited seating and no reservation system likely means waits during peak dinner hours",
+      "Budget pricing may correlate with minimal table service and self-clearing expectations"
+    ],
+    "itemId": 1000011
+  },
+  {
+    "name": "Hong Ha",
+    "location": "21 rue Saint Jean, 69005 Lyon France",
+    "type": "Asian",
+    "food_style": "Asian, Vietnamese",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Phô",
+      "Nem cuốn",
+      "Cơm tấm"
+    ],
+    "vibe": [
+      "intimate",
+      "casual-refined",
+      "buzzing",
+      "old-town charm",
+      "understated"
+    ],
+    "environment": "Hong Ha brings authentic Vietnamese cooking to the narrow streets of Vieux Lyon, where it sits comfortably between street-food informality and careful technique. The kitchen respects traditional flavors while maintaining the efficiency and cleanliness expected of contemporary dining, drawing locals and visitors alike to this unpretentious address on rue Saint Jean.",
+    "shortcomings": [
+      "Tables are tightly spaced and noise levels can surge during peak hours, limiting conversational comfort",
+      "Service pacing sometimes lags during busy service; reservations are advisable but not always honored strictly"
+    ],
+    "itemId": 1000012
+  },
+  {
+    "name": "L'Etoile d'Asie",
+    "location": "13 rue Cavenne, 69007 Lyon France",
+    "type": "Asian",
+    "food_style": "Asian, Vietnamese",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Phở bœuf",
+      "Rouleaux de printemps",
+      "Crevettes sautées aux germes de soja"
+    ],
+    "vibe": [
+      "casual-intimate",
+      "neighbourhood-focused",
+      "buzzing",
+      "unpretentious",
+      "warm"
+    ],
+    "environment": "L'Etoile d'Asie brings Vietnamese and broader Asian cooking to the Confluence district with a refreshingly straightforward approach—no fusion theater, just solid technique and genuine flavours. The 4.5-star rating across 288 reviews suggests consistency and word-of-mouth credibility in a neighbourhood increasingly curious about authentic regional Asian kitchens.",
+    "shortcomings": [
+      "Service can lag during peak dinner hours, reflecting modest staffing typical of mid-range neighbourhood spots",
+      "Limited wine pairing options—the €€-€€€ bracket doesn't accommodate the wine-forward expectations some Lyon diners bring to the table"
+    ],
+    "itemId": 1000013
+  },
+  {
+    "name": "Les 9 Lotus",
+    "location": "56 rue de la Charite, 69002 Lyon France",
+    "type": "Asian",
+    "food_style": "Asian, Vietnamese",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Pho bò",
+      "Banh mì thit nuong",
+      "Pad thai aux crevettes"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood-focused",
+      "efficient",
+      "unpretentious",
+      "buzzing at peak hours"
+    ],
+    "environment": "Les 9 Lotus brings straightforward Vietnamese cooking to a busy corner of the Presqu'île, drawing steady crowds with accessible pricing and honest execution rather than showmanship. The kitchen focuses on clarity of flavor—pho, banh mi, and stir-fries executed without unnecessary flourish, making it a reliable weeknight destination for those seeking genuine Vietnamese food without the performance.",
+    "shortcomings": [
+      "Service can slow noticeably during lunch rush; attentiveness drops as tables turn quickly.",
+      "Dining room lacks character—utilitarian seating and minimal decor suggest function over ambiance, which may feel cold during quieter service."
+    ],
+    "itemId": 1000014
+  },
+  {
+    "name": "Mamasan",
+    "location": "46 rue Ferrandiere, 69002 Lyon France",
+    "type": "Asian",
+    "food_style": "Asian, Vietnamese",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Phở",
+      "Bánh mì",
+      "Nems"
+    ],
+    "vibe": [
+      "casual-contemporary",
+      "buzzing",
+      "unpretentious",
+      "neighborhood-focused"
+    ],
+    "environment": "Mamasan brings confident Vietnamese cooking to the Presqu'île district, operating in that vital middle register where technique meets accessibility. The kitchen respects Vietnamese fundamentals—bright aromatics, precise heat balance, textural contrast—without chasing haute cuisine affectation, which explains both its steady 4.5-star following and its place in Lyon's evolving Asian dining landscape.",
+    "shortcomings": [
+      "Service can lag during peak hours; the compact space fills quickly and staff pacing occasionally struggles with volume.",
+      "Price-to-portion ratio skews toward the €€€ end of the scale for what remains fundamentally casual dining—worth it for quality, but not especially generous portions."
+    ],
+    "itemId": 1000015
+  },
+  {
+    "name": "L'Artchimiste",
+    "location": "22 rue du Professeur Weill, 69006 Lyon France",
+    "type": "Bar",
+    "food_style": "Bar",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "house cocktails with local or seasonal ingredients",
+      "carefully selected spirits poured with precision",
+      "creative aperitif preparations"
+    ],
+    "vibe": [
+      "craft-focused",
+      "intimate",
+      "bohemian",
+      "conversational",
+      "refined-casual"
+    ],
+    "environment": "L'Artchimiste is a thoughtfully curated bar where technique meets creativity, drawing from the mixology tradition that has elevated Lyon's cocktail scene. The space likely balances craft sensibility with approachability—a place where the bartender's hand is visible and the drink menu reads like careful experimentation rather than rote classics.",
+    "shortcomings": [
+      "Higher end of pricing for bar drinks may feel steep for casual visitors; €€-€€€ suggests inconsistency in value depending on whether you're ordering simple pours or elaborate cocktails",
+      "Limited seating and intimate format means the bar can reach capacity quickly during peak evening hours, potentially creating wait times"
+    ],
+    "itemId": 1000016
+  },
+  {
+    "name": "Cafe Juliette",
+    "location": "41 rue Juliette Recamier Place des Brotteaux, metro Brotteaux, 69006 Lyon France",
+    "type": "Bar",
+    "food_style": "Bar, Gastropub, French, European",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Plateau de charcuterie et fromage",
+      "Croque-monsieur or jambon-beurre (executed with bakery-quality bread)",
+      "Seasonal tartines with market vegetables"
+    ],
+    "vibe": [
+      "aperitif-focused",
+      "neighborhood convivial",
+      "post-work social",
+      "casual sophistication"
+    ],
+    "environment": "Café Juliette occupies the intersection of bar culture and gastropub sensibility in the Brotteaux district, trading heavily on wine and aperitifs rather than elaborate plating. The venue channels contemporary French informality—neither precious nor aggressively casual—where locals linger over natural wines and charcuterie boards as readily as they order cocktails.",
+    "shortcomings": [
+      "Service can lag during peak aperitif hours (18h-20h), when the bar's popularity outpaces table turnover.",
+      "Menu leans toward light bites rather than substantial mains; diners seeking full-course dinners may find themselves supplementing elsewhere."
+    ],
+    "itemId": 1000017
+  },
+  {
+    "name": "Elephant and Castle",
+    "location": "16 quai de Bondy, 69005 Lyon France",
+    "type": "Bar",
+    "food_style": "Bar, British, Pub, Gastropub",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "Fish and chips",
+      "Beef and ale pie",
+      "Full English breakfast"
+    ],
+    "vibe": [
+      "convivial",
+      "casual Anglo-Saxon",
+      "riverside relaxed",
+      "unpretentious"
+    ],
+    "environment": "An English gastropub anchored on the Quai de Bondy, Elephant and Castle brings straightforward British pub culture to Lyon's riverside with honest cooking and a no-fuss atmosphere. It's the kind of place where you'll find regulars nursing ales and tourists seeking refuge from French formality—comfort food without pretension, executed at a price that respects the venue's humble positioning.",
+    "shortcomings": [
+      "Limited local wine selection—the focus on beer and spirits means French gastronomy enthusiasts may feel the cellar underserves the neighborhood",
+      "Service can be stretched during peak hours; the casual model means efficiency isn't always prioritized over warmth"
+    ],
+    "itemId": 1000018
+  },
+  {
+    "name": "Wallace",
+    "location": "2 rue Octavio Mey, 69005 Lyon France",
+    "type": "Bar",
+    "food_style": "Bar, British, Pub, Scottish",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "Fish and chips",
+      "British ales and Scottish whisky selection",
+      "Pub fare (burgers, pies)"
+    ],
+    "vibe": [
+      "convivial",
+      "casual",
+      "unpretentious",
+      "laid-back",
+      "local"
+    ],
+    "environment": "Wallace brings a straightforward British and Scottish pub sensibility to the Vieux Lyon quarter, offering honest comfort food and drinks in a relaxed setting that eschews pretension. It's the kind of place where regulars know the bartender's name and conversation flows as freely as the pints, fitting snugly into Lyon's broader drinking culture without trying to be anything it's not.",
+    "shortcomings": [
+      "As a pub-focused venue, the food may feel secondary to drinks—don't expect refined gastronomy",
+      "Crowd levels can fluctuate unpredictably, potentially making solo seating or quiet evenings difficult during peak hours"
+    ],
+    "itemId": 1000019
+  },
+  {
+    "name": "Les Fleurs du Malt - La Mise en Biere",
+    "location": "15 quai Romain Rolland, 69005 Lyon France",
+    "type": "Bar",
+    "food_style": "Bar, Pub, Belgian, Brew Pub, European",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Moules à la bière belge",
+      "Choucroute garnie",
+      "Planche de charcuterie avec bières artisanales"
+    ],
+    "vibe": [
+      "convivial",
+      "casual brew-focused",
+      "riverside",
+      "international"
+    ],
+    "environment": "Les Fleurs du Malt positions itself as a serious beer hall with European sensibilities, anchored on Lyon's quai Romain Rolland with a blend of Belgian brewing culture and pub informality. The kitchen treats beer not merely as a beverage but as a culinary lens—expect pairings and preparations that honor both the drink and the continental kitchen traditions that frame it.",
+    "shortcomings": [
+      "As a brew-pub hybrid, execution can vary between the bar program (which likely excels) and the food kitchen—consistency isn't always even across offerings",
+      "The mid-tier pricing (€€-€€€) can feel steep relative to portion sizes when the focus drifts too heavily toward beverage selection over substantive plating"
+    ],
+    "itemId": 1000020
+  },
+  {
+    "name": "Franklin's Steakhouse",
+    "location": "41 rue Franklin, 69002 Lyon France",
+    "type": "Barbecue",
+    "food_style": "Barbecue, American, Steakhouse, Grill",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Côtes levées fumées",
+      "Brisket américain",
+      "Côte de boeuf grillée"
+    ],
+    "vibe": [
+      "casual-robust",
+      "smoke-filled",
+      "american-transplant",
+      "convivial",
+      "meat-centric"
+    ],
+    "environment": "Franklin's Steakhouse occupies an unlikely niche in Lyon's gastronomic landscape—a straightforward American barbecue operation on rue Franklin that trades the city's classical haute cuisine traditions for ribs, brisket, and char. The kitchen prioritizes smoke and sear over refinement, delivering honest, well-executed grilled meats to diners seeking respite from the bouchon's heavier pork-based classics.",
+    "shortcomings": [
+      "Limited appeal for vegetarian guests or those uninterested in hearty meat preparations; the menu is unapologetically narrow",
+      "Service can be stretched during peak hours, reflecting the restaurant's popularity and modest staff capacity for the consistent demand"
+    ],
+    "itemId": 1000021
+  },
+  {
+    "name": "Dozzly",
+    "location": "12 rue Neuve, 69002 Lyon France",
+    "type": "Barbecue",
+    "food_style": "Barbecue, Street Food",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pulled pork sandwich",
+      "Smoked brisket",
+      "BBQ ribs with house rub"
+    ],
+    "vibe": [
+      "casual-industrial",
+      "smoky",
+      "buzzing",
+      "unpretentious",
+      "street-food-forward"
+    ],
+    "environment": "Dozzly brings American-style barbecue to Lyon's Presqu'île district with a refreshingly no-frills approach that contrasts sharply with the city's classical gastronomic traditions. The kitchen clearly takes smoke and char seriously, delivering meaty, well-executed plates in a setting that feels more food-truck-evolved than fine-dining—which is precisely the point. It's the kind of place where messy eating is encouraged and conversation stays loud.",
+    "shortcomings": [
+      "Limited seating and no reservations system creates bottlenecks during peak hours; expect waits on weekends",
+      "Pricing skews toward the upper end of casual dining (€€€ territory), which can feel steep for what is ultimately street food—value perception may disappoint budget-conscious diners"
+    ],
+    "itemId": 1000022
+  },
+  {
+    "name": "Le Ras le Bol",
+    "location": "67 Place Voltaire, 69003 Lyon France",
+    "type": "Barbecue",
+    "food_style": "Barbecue, Asian, Korean",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Grilled galbi or marinated beef short ribs",
+      "Korean barbecue assortment with banchan (side dishes)",
+      "Wood-fired grilled proteins with Asian-inflected sauces"
+    ],
+    "vibe": [
+      "casual-upbeat",
+      "eclectic",
+      "neighborhood-friendly",
+      "convivial"
+    ],
+    "environment": "Le Ras le Bol occupies an intriguing culinary middle ground on Place Voltaire, blending Korean and East Asian flavors with robust barbecue traditions—a departure from Lyon's classical bouchon heritage but executed with genuine conviction. The kitchen demonstrates respect for smoke and char while incorporating umami-forward Korean marinades and techniques, creating a notably different dining proposition in the Presqu'île district.",
+    "shortcomings": [
+      "The fusion concept, while interesting, occasionally struggles with coherence—diners expecting purist French or Korean experience may feel the identity wavers",
+      "At €€-€€€ pricing, portions and value proposition can feel uneven depending on what's ordered, particularly if grilled meats are priced toward the premium end"
+    ],
+    "itemId": 1000023
+  },
+  {
+    "name": "Le Pain de sucre",
+    "location": "82 rue Massena, 69006 Lyon France",
+    "type": "Brazilian",
+    "food_style": "Brazilian, Latin, Spanish, South American",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Churrasco misto",
+      "Ceviche à la péruvienne",
+      "Feijoada"
+    ],
+    "vibe": [
+      "vibrant",
+      "casual-contemporary",
+      "convivial",
+      "spirited"
+    ],
+    "environment": "Le Pain de sucre brings a spirited Brazilian sensibility to Lyon's gastronomic landscape, trading the region's traditional Lyonnais heaviness for the brightness of tropical flavours and Latin American warmth. Situated on rue Masséna in the Presqu'île district, it occupies a distinct cultural niche—neither haute cuisine nor street food, but rather an accessible interpretation of South American cooking executed with evident care.",
+    "shortcomings": [
+      "Service can be inconsistent during peak hours, with pacing occasionally losing rhythm despite genuine friendliness",
+      "Mid-range pricing pushes toward the upper bracket for what remains fundamentally casual cuisine, which may frustrate those seeking better value"
+    ],
+    "itemId": 1000024
+  },
+  {
+    "name": "Les Berthom",
+    "location": "2 Place Ennemond Fousseret, 69005 Lyon France",
+    "type": "Brew Pub",
+    "food_style": "Brew Pub, Pub, Belgian, European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Moules à la bière",
+      "Côte de porc braisée aux épices belges",
+      "Plateau de charcuterie lyonnaise"
+    ],
+    "vibe": [
+      "convivial",
+      "craft-focused",
+      "laid-back European",
+      "buzzing"
+    ],
+    "environment": "Les Berthom brings a thoughtful brew pub sensibility to Lyon's Vieux Lyon quarter, blending Belgian and European influences with serious attention to beer selection and food pairings. The kitchen respects the fundamentals of pub fare while lifting it beyond the ordinary—expect well-executed charcuterie, hearty braises, and dishes designed to complement a rotating roster of craft and Belgian beers.",
+    "shortcomings": [
+      "As a brew pub in a high-traffic tourist zone, noise levels can make intimate conversation challenging during peak hours.",
+      "The €€-€€€ pricing sits at the upper end for casual dining; value perception depends heavily on whether you're ordering premium Belgian imports or local drafts."
+    ],
+    "itemId": 1000025
+  },
+  {
+    "name": "Hopstore",
+    "location": "27 rue de la Martiniere, 69001 Lyon France",
+    "type": "Brew Pub",
+    "food_style": "Brew Pub, European, Pub, American",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "fish and chips",
+      "pulled pork burger",
+      "charcuterie board with local selections"
+    ],
+    "vibe": [
+      "casual",
+      "buzzing",
+      "industrial-modern",
+      "social"
+    ],
+    "environment": "Hopstore anchors itself firmly in the contemporary craft beer movement while maintaining a grounded European sensibility—a brew pub where the beer selection carries equal weight to the kitchen. Set in the Vieux Lyon district, it channels a relaxed bistro energy rather than the reverential hush of a tasting room, making it equally suited to casual after-work crowds and those seeking honest, unpretentious food.",
+    "shortcomings": [
+      "Service can lag during peak evening hours given the casual structure",
+      "Price-to-portion ratio edges toward the generous side of €€€ on certain specialties"
+    ],
+    "itemId": 1000026
+  },
+  {
+    "name": "Betty's Bar",
+    "location": "4 rue Mourguet, 69005 Lyon France",
+    "type": "Brew Pub",
+    "food_style": "Brew Pub, American, Pub",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Burger maison",
+      "Beer-battered fish and chips",
+      "Planche de charcuterie et fromage"
+    ],
+    "vibe": [
+      "casual",
+      "convivial",
+      "unpretentious",
+      "craft-focused",
+      "lively"
+    ],
+    "environment": "Betty's Bar brings an American brew pub sensibility to the Vieux Lyon neighborhood, offering a refreshing departure from the region's traditional bouchon format. Here, locally-crafted beers take center stage alongside hearty, uncomplicated fare—a place where conviviality trumps ceremony and the conversation flows as readily as the house pour.",
+    "shortcomings": [
+      "Service can lag during peak hours, especially when staff are stretched managing the bar's growing popularity.",
+      "Limited wine list—if you're seeking Burgundy pairings, this isn't your destination; the focus is decidedly on beer."
+    ],
+    "itemId": 1000027
+  },
+  {
+    "name": "L'Accent",
+    "location": "61 rue Massena, 69006 Lyon France",
+    "type": "Brew Pub",
+    "food_style": "Brew Pub, International, Fusion, Healthy, Wine Bar",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Houblon-infused charcuterie board",
+      "Fusion risotto with craft beer reduction",
+      "House-smoked fish with herb oil"
+    ],
+    "vibe": [
+      "contemporary casual",
+      "craft-focused",
+      "approachable",
+      "convivial",
+      "unpretentious"
+    ],
+    "environment": "L'Accent marries Lyon's evolving food culture with modern brew pub sensibilities—a departure from the heavy traditionalism of bouchon dining. Expect inventive small plates and fusion dishes anchored by a thoughtful beer selection, where culinary experimentation and locally-sourced ingredients matter more than culinary hierarchy.",
+    "shortcomings": [
+      "Identity sprawl—juggling brew pub, fusion, and healthy cuisine can feel scattered; dishes sometimes lack cohesion between concept and execution",
+      "Pricing skews toward upper-mid-range for what is fundamentally casual fare; premium beer mark-ups and small-plate economics may leave diners wanting better value"
+    ],
+    "itemId": 1000028
+  },
+  {
+    "name": "Diploid",
+    "location": "18 rue de la Platiere, 69001 Lyon France",
+    "type": "Cafe",
+    "food_style": "Cafe, French, European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Œufs cocotte aux herbes de Provence",
+      "Salade lyonnaise",
+      "Tartine de pâté maison"
+    ],
+    "vibe": [
+      "casual-elegant",
+      "neighborhood-centric",
+      "daytime-focused",
+      "approachable"
+    ],
+    "environment": "Diploid occupies a thoughtful middle ground between café culture and French bistro dining on a quietly charming Vieux Lyon street. Its appeal lies in unfussy execution—solid café fundamentals elevated with genuine French technique, where a morning coffee or lunch plate feels intentional rather than rushed. The €€-€€€ positioning suggests comfortable quality without pretension, drawing local regularity over tourist cycles.",
+    "shortcomings": [
+      "Café-forward identity may limit dinner appeal—evening service likely quieter than lunch, potentially affecting kitchen energy",
+      "Midrange pricing in a neighborhood increasingly saturated with similar concepts means it competes on consistency rather than singular distinction"
+    ],
+    "itemId": 1000029
+  },
+  {
+    "name": "A chacun sa Tasse",
+    "location": "2 rue du Griffon, 69001 Lyon France",
+    "type": "Cafe",
+    "food_style": "Cafe",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "café lungo or ristretto",
+      "viennoiseries maison",
+      "café crème"
+    ],
+    "vibe": [
+      "neighbourhood-focused",
+      "casual-refined",
+      "morning-ritual",
+      "intimate"
+    ],
+    "environment": "A chacun sa Tasse occupies a deliberately unglamorous corner of Vieux Lyon, where the appeal lies in meticulous coffee technique and thoughtful pastry selection rather than décor. The name—roughly \"to each their cup\"—signals a philosophy of individuated taste, reflected in a menu that respects both the espresso purist and the milk-foam enthusiast.",
+    "shortcomings": [
+      "Limited seating means weekend mornings can feel crowded; advance planning essential for groups",
+      "Mid-tier pricing (€€-€€€) sits slightly high for café fare, though justified by quality ingredients and craft focus"
+    ],
+    "itemId": 1000030
+  },
+  {
+    "name": "Puzzle Cafe",
+    "location": "4 rue de la Poulaillerie, 69002 Lyon France",
+    "type": "Cafe",
+    "food_style": "Cafe",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "café crème and pain au chocolat",
+      "salade composée du jour",
+      "tartine du marché"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood",
+      "daytime-focused",
+      "unpretentious"
+    ],
+    "environment": "Puzzle Cafe occupies a straightforward corner in the Presqu'île district, positioned as a reliable weekday refuge for coffee and light fare rather than a destination restaurant. Its appeal lies in honest execution of cafe fundamentals—competent espresso, fresh pastries, and simple lunch plates—without theatrical presentation or inflated pricing. The 4.5-star consistency across 101 reviews suggests it delivers exactly what locals expect from a working neighborhood cafe.",
+    "shortcomings": [
+      "Limited seating and potential crowding during lunch rush; service can slow noticeably when footfall peaks.",
+      "Narrow menu range reflects its cafe identity—don't expect ambitious cooking or substantial dinner service, which may disappoint those seeking deeper culinary exploration."
+    ],
+    "itemId": 1000031
+  },
+  {
+    "name": "KAOVA CAFÉ",
+    "location": "3 rue Jangot, 69007 Lyon France",
+    "type": "Cafe",
+    "food_style": "Cafe, French",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "café crème",
+      "pain au chocolat",
+      "simple French pastries"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood-focused",
+      "morning-ritual",
+      "unpretentious"
+    ],
+    "environment": "KAOVA CAFÉ occupies that essential French niche—a simple café where locals anchor their day with coffee and conversation rather than Instagram moments. Located in the Gerland district, it balances café-culture authenticity with accessible French touches, serving as a comfortable waystation for coffee drinkers who value straightforward execution over elaborate presentation.",
+    "shortcomings": [
+      "Limited seating and occasional crowding during peak morning hours may test patience",
+      "Menu stays deliberately minimal—those seeking elaborate brunch dishes or specialty drinks will find options constrained"
+    ],
+    "itemId": 1000032
+  },
+  {
+    "name": "Nuage Cafe",
+    "location": "1 Place du Forez Place du Forez, 69001 Lyon France",
+    "type": "Cafe",
+    "food_style": "Cafe, French",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "café crème",
+      "croissant au beurre",
+      "salade niçoise"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood",
+      "light-filled",
+      "unpretentious"
+    ],
+    "environment": "Nuage Cafe occupies a modest corner of Place du Forez in the Vieux Lyon, serving straightforward café fare without affectation. It's the kind of place where locals linger over coffee and a croissant in the morning, then return for a simple lunch—honest food at gentle prices, anchored in café culture rather than haute ambition.",
+    "shortcomings": [
+      "Limited scope—if you're seeking complex bistro cooking or regional specialties, this is a café first and foremost",
+      "Peak hours can feel cramped and service may slow when the place fills with the morning or lunch rush"
+    ],
+    "itemId": 1000033
+  },
+  {
+    "name": "Le Ti'Punch de la Reunion",
+    "location": "12 rue Longue Avron, 69001 Lyon France",
+    "type": "Cajun & Creole",
+    "food_style": "Cajun & Creole",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Carry de porc",
+      "Rougail saucisse",
+      "Salade de fruits de mer créole"
+    ],
+    "vibe": [
+      "tropical-warmth",
+      "casual-spirited",
+      "convivial",
+      "music-driven",
+      "neighborhood-rooted"
+    ],
+    "environment": "Le Ti'Punch de la Réunion transports diners away from Lyon's classical French kitchen into the spiced, rum-inflected world of Creole and Cajun cooking, with particular fidelity to Réunion Island's bold flavors and relaxed social rhythms. The space radiates unpretentious energy—expect Caribbean music, lively conversation, and plates built on slow-cooked meats, aromatic rice, and generous spicing that cuts through the Lyonnais appetite for restraint.",
+    "shortcomings": [
+      "Service can lag during peak hours, as the small team manages high demand without always maintaining rhythm",
+      "The €€-€€€ pricing sits at the upper end for this cuisine style in Lyon, which may feel steep for the casual setting"
+    ],
+    "itemId": 1000034
+  },
+  {
+    "name": "Les Filaos",
+    "location": "1 Place Fernand Rey, 69001 Lyon France",
+    "type": "Cajun & Creole",
+    "food_style": "Cajun & Creole",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "gumbo roux-dark and savory",
+      "jambalaya with andouille",
+      "beignets or beignet-based desserts"
+    ],
+    "vibe": [
+      "convivial",
+      "casual-spirited",
+      "eclectic",
+      "warm-lit",
+      "unpretentious"
+    ],
+    "environment": "Les Filaos brings Louisiana warmth to the heart of Presqu'île, offering Cajun and Creole cooking that stands apart from Lyon's traditional gastronomy. The restaurant embraces bold spicing and layered flavors with an informal charm, drawing locals who appreciate honest, richly seasoned food without the formality of classical French establishments.",
+    "shortcomings": [
+      "Service can be slow during peak hours, reflecting the casual approach rather than polished coordination",
+      "Pricing edges toward the upper-middle range for Lyon, which may feel steep given the casual atmosphere and portion sizes"
+    ],
+    "itemId": 1000035
+  },
+  {
+    "name": "Cannelle La",
+    "location": "103 quai Pierre Scize, 69005 Lyon France",
+    "type": "Caribbean",
+    "food_style": "Caribbean, Cajun & Creole, International",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Accras de morue",
+      "Poulet à la créole",
+      "Riz & pois"
+    ],
+    "vibe": [
+      "tropical warmth",
+      "casual-spirited",
+      "waterside charm",
+      "convivial"
+    ],
+    "environment": "Cannelle La brings Caribbean and Creole flavours to Lyon's Vieux Lyon waterfront, offering an unexpected culinary detour from the city's traditional bouchon scene. The restaurant balances accessible pricing with genuine flavour depth, drawing steady crowds who appreciate bold spicing and a relaxed, unpretentious atmosphere overlooking the Saône.",
+    "shortcomings": [
+      "Service can feel stretched during peak hours, with occasional delays in attention despite friendly staff",
+      "Noise levels rise considerably when full; intimate conversation becomes difficult"
+    ],
+    "itemId": 1000036
+  },
+  {
+    "name": "Engimono",
+    "location": "8 rue Servient, 69003 Lyon France",
+    "type": "Chinese",
+    "food_style": "Chinese, Asian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Mapo tofu",
+      "Canard laqué aux épices",
+      "Nouilles sautées aux germes de soja et porc"
+    ],
+    "vibe": [
+      "contemporary",
+      "buzzing",
+      "casual-refined",
+      "neighborhood-focused"
+    ],
+    "environment": "Engimono brings thoughtful Chinese cooking to the Guillotière district, moving beyond standard takeaway fare with technique-forward preparations and carefully sourced ingredients. The kitchen shows particular attention to regional Chinese traditions, balancing bold flavors with restraint—a rarity in Lyon's dining landscape where Asian cuisine often plays second fiddle to Gallic conventions.",
+    "shortcomings": [
+      "Service can be stretched thin during peak hours, with occasional delays despite attentive staff intent",
+      "Price positioning at the higher end of Chinese dining in Lyon may feel steep for some dishes relative to portion size"
+    ],
+    "itemId": 1000037
+  },
+  {
+    "name": "Carnet Gourmand",
+    "location": "15 rue Neuve, 69001 Lyon France",
+    "type": "Chinese",
+    "food_style": "Chinese, Asian, Yunnan",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Crossing the bridge noodles (Guo Qiao Mi Xian)",
+      "Yunnan steam pot chicken (Qiguo ji)",
+      "Chongqing chicken with peanuts and dried chilies (La Zi Ji)"
+    ],
+    "vibe": [
+      "intimate",
+      "worldly",
+      "casual-elegant",
+      "buzzing"
+    ],
+    "environment": "Carnet Gourmand brings authentic Yunnan and broader Chinese regional cooking to Lyon's Old Town, offering a departure from the city's bouchon-heavy dining scene. The kitchen demonstrates genuine technical skill in balancing heat, umami, and delicate aromatics—this is thoughtful cuisine, not tourist-oriented generics. Set on rue Neuve's lively stretch, it attracts both locals seeking genuine flavors and visitors curious about Lyon's expanding culinary horizons.",
+    "shortcomings": [
+      "Service can be uneven during peak hours, with occasional waits despite reservations; attentiveness varies noticeably between tables.",
+      "Pricing sits at the higher end for Chinese dining in Lyon, which some may feel doesn't fully align with casual bouchon-restaurant expectations in the neighborhood."
+    ],
+    "itemId": 1000038
+  },
+  {
+    "name": "Elephant",
+    "location": "53 rue Ney, 69006 Lyon France",
+    "type": "Chinese",
+    "food_style": "Chinese, Asian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Canard laqué aux épices",
+      "Raviolis à la vapeur maison",
+      "Nouilles sautées aux fruits de mer"
+    ],
+    "vibe": [
+      "vibrant",
+      "casual-elegant",
+      "neighborhood-focused",
+      "convivial"
+    ],
+    "environment": "Elephant brings refined Chinese cuisine to a residential quarter of Lyon's Presqu'île district, striking an uncommon balance between approachable warmth and technical skill. The kitchen respects classical techniques while avoiding the heaviness that can bog down Chinese dining, making it a rare spot where locals and visitors alike can expect consistency and care in execution.",
+    "shortcomings": [
+      "Pricing edges toward the upper-middle range for Chinese dining in Lyon, which may feel steep for casual weeknight visits despite quality ingredients",
+      "Service can be uneven during peak hours—attentiveness varies, and the narrow space means tables sit close, limiting privacy"
+    ],
+    "itemId": 1000039
+  },
+  {
+    "name": "DineDonG",
+    "location": "89 rue Bossuet, 69006 Lyon France",
+    "type": "Chinese",
+    "food_style": "Chinese, Asian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Canard laqué",
+      "Nouilles sautées aux crevettes",
+      "Mapo tofu"
+    ],
+    "vibe": [
+      "casual-contemporary",
+      "buzzing",
+      "unpretentious",
+      "family-friendly",
+      "efficient"
+    ],
+    "environment": "DineDonG brings genuine Chinese cooking to Lyon's 6th arrondissement with a refreshingly straightforward approach—no theatrical plating, just well-executed wok work and honest flavours. The casual, busy atmosphere reflects its popularity among locals seeking authentic Asian cuisine at reasonable prices, a departure from Lyon's traditional gastronomic expectations.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours; little time to linger over meals",
+      "Limited wine program—the €€-€€€ pricing appeals to value-seekers, but the wine list doesn't match the ambition of the kitchen"
+    ],
+    "itemId": 1000040
+  },
+  {
+    "name": "Chez Banoi",
+    "location": "152 B rue Moncey, 69003 Lyon France",
+    "type": "Chinese",
+    "food_style": "Chinese, Asian, Vietnamese",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Canard laqué aux cinq épices",
+      "Soupe de nouilles au poulet",
+      "Pâtes sautées aux légumes et crevettes"
+    ],
+    "vibe": [
+      "casual",
+      "bustling",
+      "neighborhood-forward",
+      "unpretentious"
+    ],
+    "environment": "Chez Banoi brings authentic Chinese and Vietnamese cooking to the Croix-Rousse district with straightforward technique and honest flavors—a departure from Lyon's bouchon-centric dining scene. The modest setting on rue Moncey reflects its neighborhood roots rather than aspirational décor, allowing the food's quality and reliability (reflected in its 4.5 rating across 96 reviews) to be the main draw.",
+    "shortcomings": [
+      "Service can be brisk during peak hours, sometimes prioritizing table turnover over lingering conversation—typical for neighborhood Asian establishments.",
+      "Mid-range pricing (€€–€€€) means it occupies an awkward spot between affordable casual and splurge-worthy fine dining; value perception may fluctuate depending on dish choice."
+    ],
+    "itemId": 1000041
+  },
+  {
+    "name": "El Cafetero",
+    "location": "53 rue Tronchet, 69006 Lyon France",
+    "type": "Colombian",
+    "food_style": "Colombian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Bandeja Paisa",
+      "Arepas rellenas",
+      "Sancocho"
+    ],
+    "vibe": [
+      "warm and unpretentious",
+      "neighbourhood casual",
+      "lively",
+      "intimate"
+    ],
+    "environment": "El Cafetero brings genuine Colombian hospitality to the Presqu'île neighbourhood, offering robust flavours and honest cooking that reflects the country's regional diversity rather than diluting it for French palates. The kitchen respects tradition—expect properly made arepas, beans cooked low and slow, and an understanding of how Colombian food should taste, not how it might be imagined in a European context.",
+    "shortcomings": [
+      "Service can be inconsistent during peak hours; the small space means waits are common on weekends",
+      "Prices edge toward the higher end for Colombian cuisine, reflecting rent in the 6th arrondissement rather than ingredient costs"
+    ],
+    "itemId": 1000042
+  },
+  {
+    "name": "Le Desjeuneur",
+    "location": "3 rue des Pierres Plantees, 69001 Lyon France",
+    "type": "Contemporary",
+    "food_style": "Contemporary, French, European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Œuf cocotte aux truffes (or seasonal vegetable variation)",
+      "Filet de poisson du marché avec beurre blanc",
+      "Panna cotta or chocolate tart (likely rotating)"
+    ],
+    "vibe": [
+      "contemporary-casual",
+      "neighborhood-focused",
+      "lunch-oriented",
+      "approachable elegance"
+    ],
+    "environment": "Le Déjeuner occupies the middle ground between casual bistro and refined dining, offering contemporary French cooking that respects tradition without genuflecting to it. Located in the Vieux Lyon district, it caters to professionals and locals seeking intelligent lunches and dinners that feel neither pretentious nor dumbed-down. The kitchen's restraint and seasonal focus suggest a chef more interested in ingredient quality than technique showboating.",
+    "shortcomings": [
+      "Limited seating and popularity means weekday lunch reservations are often non-negotiable; walk-ins face frustration.",
+      "Price trajectory skews toward the upper end of the range during dinner service, which may feel steep for simpler plates relative to nearby bouchons."
+    ],
+    "itemId": 1000043
+  },
+  {
+    "name": "Les Chaises Vertes",
+    "location": "Place Bellecour, 69002 Lyon France",
+    "type": "Contemporary",
+    "food_style": "Contemporary, Healthy, French, Bar, Pub",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Salade composée aux protéines variées",
+      "Poisson du jour en croûte de sel",
+      "Risotto de légumes de saison"
+    ],
+    "vibe": [
+      "casual-contemporary",
+      "light-filled",
+      "approachable",
+      "social",
+      "wellness-conscious"
+    ],
+    "environment": "Les Chaises Vertes occupies a prime spot on Place Bellecour with a refreshing approach to contemporary French cooking that leans toward lighter, health-minded preparations without sacrificing flavor. The atmosphere strikes a balance between bistro informality and modern refinement, drawing both local office workers and curious diners seeking good food at accessible prices.",
+    "shortcomings": [
+      "Location on the vast Place Bellecour means terrace seating can feel exposed and windy; interior tables are preferable on blustery days",
+      "The contemporary-healthy positioning may disappoint traditionalists seeking the deeper, richer flavors of classic bouchon cuisine; it's modern Lyon rather than nostalgic Lyon"
+    ],
+    "itemId": 1000044
+  },
+  {
+    "name": "La Cagette a Malek",
+    "location": "14 rue des Pierres Plantees, 69001 Lyon France",
+    "type": "Contemporary",
+    "food_style": "Contemporary",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Légumes de saison revisités",
+      "Poisson du jour",
+      "Desserts maison"
+    ],
+    "vibe": [
+      "casual-contemporary",
+      "neighborhood-focused",
+      "intimate",
+      "approachable"
+    ],
+    "environment": "La Cagette a Malek occupies that sweet spot where contemporary cooking meets Lyon's unpretentious dining ethos—no theatrical plating, just thoughtful execution of seasonal ingredients. Located in the Vieux Lyon quarter on a pedestrian street, it draws locals and visitors alike who appreciate straightforward technique without pretension.",
+    "shortcomings": [
+      "Mid-range pricing for relatively modest portions—value perception can feel stretched, especially during peak season",
+      "Service can be uneven during busy periods; inconsistent attentiveness noted in some reviews"
+    ],
+    "itemId": 1000045
+  },
+  {
+    "name": "restaurant la bodeguita cubana",
+    "location": "44 rue de Cuire, 69004 Lyon France",
+    "type": "Cuban",
+    "food_style": "Cuban, Caribbean",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "ropa vieja",
+      "tostones",
+      "ceviche de pargo"
+    ],
+    "vibe": [
+      "tropical-spirited",
+      "casual-energetic",
+      "convivial",
+      "colourful"
+    ],
+    "environment": "La Bodeguita Cubana transports Lyon's dining scene to Havana with authentic rum-fueled Caribbean hospitality and brass-forward music. The restaurant channels the bohemian charm of its namesake Havana bar whilst grounding itself in genuine Cuban cooking—a rarity in the Presqu'île neighbourhood. Expect a lively, unpretentious atmosphere where mojitos flow and the kitchen honours island traditions without Parisian affectation.",
+    "shortcomings": [
+      "Service can feel stretched during peak hours, with occasional lapses in attentiveness despite genuine warmth from staff",
+      "Price positioning (€€-€€€) sits above typical casual Cuban fare, which may feel steep for what remains fundamentally comfort food"
+    ],
+    "itemId": 1000046
+  },
+  {
+    "name": "Petit Ogre",
+    "location": "15 rue de la Banniere, 69003 Lyon France",
+    "type": "Diner",
+    "food_style": "Diner",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles de brochet",
+      "Andouillette grillée",
+      "Gratin dauphinois"
+    ],
+    "vibe": [
+      "casual",
+      "approachable",
+      "convivial",
+      "unpretentious"
+    ],
+    "environment": "Petit Ogre inhabits that comfortable middle ground between a traditional bouchon and a modern diner, serving straightforward French comfort food without pretense or unnecessary elaboration. The €€-€€€ price point and solid 4.5/5 rating across 520 reviews suggest a neighborhood fixture that executes fundamentals well—the kind of place where regulars know their seat and first-time visitors feel immediately welcome.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours, reflecting the restaurant's popularity and modest table count",
+      "Price-to-portion ratio tilts toward richness over generosity—expect hearty plates rather than abundant ones"
+    ],
+    "itemId": 1000047
+  },
+  {
+    "name": "Le Blind Pig",
+    "location": "64 rue Ney, 69006 Lyon France",
+    "type": "Diner",
+    "food_style": "Diner, French, International",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Burger maison",
+      "Croque-monsieur",
+      "Plat du jour"
+    ],
+    "vibe": [
+      "casual-contemporary",
+      "relaxed",
+      "unpretentious",
+      "convivial"
+    ],
+    "environment": "Le Blind Pig bridges American diner sensibilities with French culinary foundations, occupying a comfortable middle ground in the 6th arrondissement. It's the kind of neighborhood spot where diners feel equally at ease with a croque-monsieur and a burger, served in an atmosphere that eschews Lyon's more formal gastronomic conventions.",
+    "shortcomings": [
+      "Identity slightly diffused across three cuisine categories—lacks the focused clarity of dedicated bouchons or specialized bistros",
+      "Mid-tier pricing (€€-€€€) sits uncomfortably between casual diner economics and fine-dining expectations, potentially creating value perception issues"
+    ],
+    "itemId": 1000048
+  },
+  {
+    "name": "Restaurant Le 76",
+    "location": "76 rue Paul Bert, 69003 Lyon France",
+    "type": "Eastern European",
+    "food_style": "Eastern European, Romanian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Mici (grilled minced meat rolls)",
+      "Ciorbă de burtă (tripe soup)",
+      "Mămăligă (polenta with cheese and sour cream)"
+    ],
+    "vibe": [
+      "warm and unpretentious",
+      "intimate",
+      "convivial",
+      "rustic-modern"
+    ],
+    "environment": "Le 76 brings the robust, soul-warming traditions of Eastern European and Romanian cuisine to Lyon's vibrant Guillotière neighbourhood. Set on rue Paul Bert in a modest neighbourhood setting, this restaurant offers an honest escape from the city's classical French dining conventions, serving hearty, flavour-forward dishes that reflect the Carpathian region's culinary heritage with genuine care.",
+    "shortcomings": [
+      "Limited wine list—the selection leans heavily toward Eastern European and basic French options, which may disappoint oenophiles accustomed to Lyon's wine culture",
+      "Service can be slow during peak hours; the intimate space and small team mean waits are common despite good intentions"
+    ],
+    "itemId": 1000049
+  },
+  {
+    "name": "Le Kitchen Café",
+    "location": "34 rue Chevreul, 69007 Lyon France",
+    "type": "European",
+    "food_style": "European, Gastropub, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles lyonnaises",
+      "Terrine de foie gras maison",
+      "Côte de bœuf rôtie"
+    ],
+    "vibe": [
+      "casual-upscale",
+      "contemporary",
+      "convivial",
+      "approachable"
+    ],
+    "environment": "Le Kitchen Café bridges the gap between refined European cooking and relaxed gastropub informality, anchored on rue Chevreul in the Guillotière district. It channels a modern sensibility while respecting Lyon's culinary traditions, offering well-executed French and European dishes in a setting that feels neither stuffy nor aggressively trendy—a genuine neighborhood refuge for serious eaters.",
+    "shortcomings": [
+      "Service can be inconsistent during peak hours, with occasional delays between courses despite attentive intentions",
+      "Price-to-portion ratio tilts toward the premium end for a café-styled venue; some dishes feel slightly dear for their execution"
+    ],
+    "itemId": 1000050
+  },
+  {
+    "name": "Casa Iberica",
+    "location": "17 Place Charles Et Christophe Merieux, 69007 Lyon France",
+    "type": "European",
+    "food_style": "European, Spanish, Portuguese",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Croquetas de jamón ibérico",
+      "Bacalao à Brás",
+      "Rabo de toro"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "warm-lit",
+      "neighborhood-rooted"
+    ],
+    "environment": "Casa Iberica brings the straightforward, ingredient-forward approach of Spanish and Portuguese home cooking to Lyon's 7th arrondissement, steering clear of fusion conceits. The kitchen respects tradition—expect jamón, seafood preparations, and gutsy flavors at prices that reflect honest cooking rather than location markup. A steady clientele suggests reliable execution and a dining room where locals feel at ease.",
+    "shortcomings": [
+      "Service can lag during peak hours; the small dining room fills quickly and pacing may suffer.",
+      "Limited wine list leaning heavily toward Spanish/Portuguese; less depth for pairing adventurers."
+    ],
+    "itemId": 1000051
+  },
+  {
+    "name": "Au P'tit Zinc",
+    "location": "56 quai Pierre Scize, 69005 Lyon France",
+    "type": "European",
+    "food_style": "European, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles lyonnaises",
+      "Andouillette à la moutarde",
+      "Gratin de queue de bœuf"
+    ],
+    "vibe": [
+      "cosy",
+      "riverside",
+      "convivial",
+      "classic-casual"
+    ],
+    "environment": "Au P'tit Zinc occupies the cherished middle ground of Lyon dining: unpretentious European cooking with genuine care, positioned on the quai with the Saône as a quiet companion. The 4.5-star consensus suggests reliable execution and honest flavours rather than culinary theatre—this is where locals return for consistency and comfort.",
+    "shortcomings": [
+      "Service can feel stretched during peak evening hours, with occasional delays in pacing between courses",
+      "Price-to-portion ratio edges toward the higher side of €€-€€€, particularly if ordering multiple courses with wine"
+    ],
+    "itemId": 1000052
+  },
+  {
+    "name": "Bartholome",
+    "location": "38 rue Sergent Blandan, 69001 Lyon France",
+    "type": "European",
+    "food_style": "European, Healthy",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "grilled vegetables with herb oils",
+      "lean protein preparations (likely fish or poultry)",
+      "seasonal vegetable-forward plates"
+    ],
+    "vibe": [
+      "contemporary-relaxed",
+      "health-conscious",
+      "neighborhood-focused",
+      "unpretentious"
+    ],
+    "environment": "Bartholome occupies a thoughtful middle ground between casual bistro and refined dining, emphasizing clean European cooking with visible attention to ingredient quality and nutritional balance. Located on a quieter Vieux Lyon street, it attracts locals seeking well-executed plates without the formality or price shock of gastronomic establishments, though it remains distinct from the heavy, traditional bouchon experience.",
+    "shortcomings": [
+      "the healthy-focused positioning may disappoint diners seeking indulgent, butter-rich Lyonnais classics",
+      "at mid-to-upper pricing, portions and wine pairings merit scrutiny relative to value—some reviewers likely find it costs more than neighborhood bistros without the prestige markup justification"
+    ],
+    "itemId": 1000053
+  },
+  {
+    "name": "Celest Bar & Restaurant",
+    "location": "129 Rue Servient, 69326 Lyon France",
+    "type": "European",
+    "food_style": "European",
+    "rating": 4.0,
+    "price_range": "€€€€",
+    "signatures": [
+      "Seasonal vegetable preparations with refined technique",
+      "European proteins with precise doneness",
+      "Composed desserts reflecting current culinary trends"
+    ],
+    "vibe": [
+      "contemporary elegant",
+      "cosmopolitan",
+      "upscale casual",
+      "refined but approachable"
+    ],
+    "environment": "Celest occupies a confident position in Lyon's dining landscape, blending European techniques with modern sensibility rather than adhering strictly to Lyonnais tradition. The restaurant commands premium pricing for what reads as an ambitious, ingredient-focused kitchen that values presentation and contemporary plating over nostalgia.",
+    "shortcomings": [
+      "At €€€€ price point, execution must be flawless—the 4.0 rating suggests occasional inconsistency or gaps between ambition and delivery",
+      "High price-to-portion ratio can feel steep for Lyon diners accustomed to generous bouchon portions; risk of leaving hungry rather than satisfied"
+    ],
+    "itemId": 1000054
+  },
+  {
+    "name": "Yaafa",
+    "location": "17 rue d Algerie, 69002 Lyon France",
+    "type": "Fast food",
+    "food_style": "Fast food, Mediterranean",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "shawarma or kebab avec sauce maison",
+      "mezze plates with fresh hummus",
+      "falafel sandwich"
+    ],
+    "vibe": [
+      "casual",
+      "bustling",
+      "unpretentious",
+      "quick-service oriented"
+    ],
+    "environment": "Yaafa delivers Mediterranean-inflected fast food with genuine care in the Presqu'île district, where speed and flavor coexist without compromise. The 4.5-star consensus from 450 reviews suggests a reliable formula: quality ingredients moved through the line quickly, appealing to Lyon's lunch crowds and those seeking substantive street food rather than chain mediocrity.",
+    "shortcomings": [
+      "Limited seating means peak hours can feel cramped; eating on the move is the default",
+      "Fast-food pricing at the lower end may mask inconsistent portion sizes depending on staff attentiveness"
+    ],
+    "itemId": 1000055
+  },
+  {
+    "name": "King Marcel Part Dieu - Lyon",
+    "location": "26 boulevard Jules Favre, 69006 Lyon France",
+    "type": "Fast food",
+    "food_style": "Fast food, European, American",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Burger maison",
+      "Steak-frites",
+      "Plat du jour"
+    ],
+    "vibe": [
+      "casual",
+      "modern",
+      "efficient",
+      "sociable",
+      "contemporary"
+    ],
+    "environment": "King Marcel Part Dieu bridges the gap between fast-casual dining and European comfort food in Lyon's bustling business district. The restaurant delivers polished burger craftsmanship and accessible European fare without pretension, attracting both locals seeking quick lunch and those wanting something meatier than standard fast food.",
+    "shortcomings": [
+      "Limited seating during peak lunch hours can create pressure to eat quickly",
+      "Price point sits awkwardly between proper bouchon value and true fast-food affordability, so value perception depends on expectations"
+    ],
+    "itemId": 1000056
+  },
+  {
+    "name": "Smor & Brod",
+    "location": "88 rue Merciere, 69002 Lyon France",
+    "type": "Fast food",
+    "food_style": "Fast food, European, Danish, Scandinavian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Smørrebrød (Danish open-faced sandwiches)",
+      "Nordic rye and sourdough preparations",
+      "Cured and pickled vegetable accompaniments"
+    ],
+    "vibe": [
+      "casual-Nordic",
+      "counter-culture",
+      "lunch-focused",
+      "unpretentious",
+      "ingredient-driven"
+    ],
+    "environment": "Smor & Brod brings Scandinavian sandwich and open-faced bread culture to Lyon's Presqu'île district, dispensing with ceremony in favor of quality sourcing and straightforward execution. Positioned at the intersection of fast food and European craft tradition, it offers respite from both greasy quick-service and the formality of institutional gastronomy—a place where bread matters as much as filling.",
+    "shortcomings": [
+      "Limited seating and queue-prone during peak hours, reflecting its fast-casual model rather than sit-down comfort",
+      "Price positioning (€€-€€€) sits awkwardly between true fast food and full-service restaurant expectations—value perception may vary by diner"
+    ],
+    "itemId": 1000057
+  },
+  {
+    "name": "Pimprenelle",
+    "location": "13 rue des 4 Chapeaux, 69002 Lyon France",
+    "type": "Fast food",
+    "food_style": "Fast food, European, French",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Sandwich Lyonnais",
+      "Salade composée",
+      "Burger à la française"
+    ],
+    "vibe": [
+      "casual-modern",
+      "efficient",
+      "approachable",
+      "bustling"
+    ],
+    "environment": "Pimprenelle occupies an interesting middle ground between quick-service convenience and European sensibility, offering French-inflected fast food that respects ingredients without pretension. Located on a quiet Presqu'île street, it caters to those seeking something faster than a bouchon but more considered than typical chain fare. The 4.0 rating across 306 reviews suggests reliable execution that satisfies regularity without overstating ambition.",
+    "shortcomings": [
+      "Fast-food format limits the warm, convivial lingering that defines Lyon's dining culture—seating and service are transactional rather than social",
+      "Price point (€€-€€€) sits awkwardly between value fast food and proper restaurant dining, raising questions about value proposition depending on what you order"
+    ],
+    "itemId": 1000058
+  },
+  {
+    "name": "La Broche Les Bros Du Grill",
+    "location": "14 rue Romarin, 69001 Lyon France",
+    "type": "Fast food",
+    "food_style": "Fast food, Street Food, French",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "brochette grillée",
+      "sandwich jambon-fromage",
+      "frites maison"
+    ],
+    "vibe": [
+      "casual",
+      "counter-service",
+      "young-crowd",
+      "quick-bite"
+    ],
+    "environment": "La Broche Les Bros Du Grill strips away pretense with straightforward grilled meats and street-food energy in the heart of Vieux Lyon. It captures the casual side of French eating culture—respecting quality ingredients while rejecting formality, with a focus on char-marked proteins and honest sides that don't overcomplicate.",
+    "shortcomings": [
+      "limited seating and no-frills atmosphere means peak hours feel cramped",
+      "service pace can be slow during rushes given the walk-up format"
+    ],
+    "itemId": 1000059
+  },
+  {
+    "name": "Aromatic",
+    "location": "15 rue du Chariot D Or, 69004 Lyon France",
+    "type": "French",
+    "food_style": "French, European",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles de brochet",
+      "Sauce mère-grand style preparations",
+      "Seasonal game preparations"
+    ],
+    "vibe": [
+      "intimate",
+      "refined",
+      "classic French",
+      "understated elegance"
+    ],
+    "environment": "Aromatic occupies a quiet corner of the Croix-Rousse neighborhood with the composed confidence of a restaurant that has earned its reputation through consistency rather than hype. The kitchen approaches French technique with respect for ingredient quality and proportion, steering clear of gratuitous modernism while remaining attentive to contemporary palates. With 862 five-star reviews, this is a place where regulars return not for novelty but for the reliability of well-executed dishes.",
+    "shortcomings": [
+      "The €€-€€€ price bracket can feel steep relative to portion sizes, especially for wines by the glass",
+      "Limited seating and no walk-in policy mean advance booking is essential; the restaurant's success has made spontaneity difficult"
+    ],
+    "itemId": 1000060
+  },
+  {
+    "name": "Bouchon Tupin",
+    "location": "30 rue Tupin, 69002 Lyon France",
+    "type": "French",
+    "food_style": "French, European",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles de brochet",
+      "Andouillette AAAA",
+      "Saucisson chaud en croûte"
+    ],
+    "vibe": [
+      "intimate",
+      "old-world charm",
+      "convivial",
+      "unpretentious"
+    ],
+    "environment": "A textbook bouchon lyonnais on rue Tupin, where traditional Lyonnaise gastronomy unfolds in tight quarters thick with history and laughter. The kitchen honors the region's unapologetic approach to pork, offal, and butter—expect robust, ingredient-driven cooking that eschews modernist flourishes in favor of generational technique and respect for terroir.",
+    "shortcomings": [
+      "Tables are cramped; expect to hear neighboring conversations as part of the ambiance rather than have privacy",
+      "High demand and limited seating mean reservations weeks ahead are essential; walk-ins face long waits or outright refusal"
+    ],
+    "itemId": 1000061
+  },
+  {
+    "name": "Le Comptoir des Cousins",
+    "location": "31 Bis Rue Ney, 69006 Lyon France",
+    "type": "French",
+    "food_style": "French, European",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles de brochet",
+      "Andouillette à la lyonnaise",
+      "Gratin de queue de bœuf"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "warmly lit",
+      "neighborhood-focused"
+    ],
+    "environment": "Le Comptoir des Cousins embodies the spirit of Lyon's bouchon tradition—a place where French regional cooking and genuine hospitality take precedence over theatrical presentation. Situated in the Presqu'île district, this restaurant balances rustic comfort with careful technique, drawing crowds who value straightforward, well-executed cuisine over haute cuisine posturing.",
+    "shortcomings": [
+      "High demand means reservations are nearly essential; walk-ins face long waits during peak hours.",
+      "The €€-€€€ pricing climbs toward the upper bracket given portion sizes and wine markups, which may disappoint budget-conscious diners expecting typical bouchon affordability."
+    ],
+    "itemId": 1000062
+  },
+  {
+    "name": "Le Book-Lard",
+    "location": "144 Rue Duguesclin, 69006 Lyon France",
+    "type": "French",
+    "food_style": "French, Gastropub",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles de brochet",
+      "Andouillette à la moutarde de Dijon",
+      "Pâté en croûte maison"
+    ],
+    "vibe": [
+      "casual-refined",
+      "convivial",
+      "rustic-modern",
+      "unpretentious",
+      "lively"
+    ],
+    "environment": "Le Book-Lard bridges Lyon's bouchon heritage with contemporary gastropub sensibilities, serving robust French fare in an atmosphere that feels both grounded and spirited. The name itself—a playful nod to pork products central to Lyonnais cooking—signals a kitchen unafraid of richness and tradition, executed with enough precision to satisfy modern palates. Located in the 6th arrondissement, it draws a steady crowd of locals and visitors seeking substance over spectacle.",
+    "shortcomings": [
+      "The popularity (393 reviews, perfect rating) likely means booking well ahead; walk-ins may struggle, especially weekends",
+      "As a gastropub hybrid, pricing sits in the €€-€€€ range, which can feel steep for portions that prioritize flavor over generous size"
+    ],
+    "itemId": 1000063
+  },
+  {
+    "name": "Bistrot Orcia",
+    "location": "15 B rue d Austerlitz, 69004 Lyon France",
+    "type": "French",
+    "food_style": "French, European",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles à la sauce Nantua",
+      "Côte de veau braisée",
+      "Gratinée à l'oignon"
+    ],
+    "vibe": [
+      "intimate",
+      "classic French",
+      "neighborhood feel",
+      "convivial"
+    ],
+    "environment": "Bistrot Orcia inhabits the tradition of Lyon's bouchon culture while maintaining refined execution—a modest corner establishment on rue d'Austerlitz serving robust French bistro fare with evident technical care. The consistently perfect ratings suggest meticulous attention to sourcing and preparation, with the kitchen respecting classical technique without pretension.",
+    "shortcomings": [
+      "Limited seating creates booking challenges during peak periods; walk-ins likely face waits",
+      "Mid-to-upper price range for bistro format may feel steep for casual dining, particularly for wine pairings"
+    ],
+    "itemId": 1000064
+  },
+  {
+    "name": "Culina Hortus",
+    "location": "38 rue de l Arbre Sec, 69001 Lyon France",
+    "type": "Gastropub",
+    "food_style": "Gastropub, French, Healthy",
+    "rating": 5.0,
+    "price_range": "€€€€",
+    "signatures": [
+      "Légumes de saison rôtis avec émulsion de noisette",
+      "Œuf fermier parfait avec pain d'épices et champignons",
+      "Poisson blanc du jour en croûte d'herbes fraîches"
+    ],
+    "vibe": [
+      "upscale-casual",
+      "garden-inspired",
+      "contemporary",
+      "intimate",
+      "refined"
+    ],
+    "environment": "Culina Hortus marries gastropub informality with haute cuisine ambition, anchored in the Vieux Lyon location with a philosophy that treats vegetables and proteins with equal reverence. The kitchen balances French classical technique with modern health-conscious sensibilities, offering dishes that feel both indulgent and considered—a rare equilibrium in Lyon's dining landscape.",
+    "shortcomings": [
+      "Price point (€€€€) sits at the upper range even for Lyon fine dining, which may feel excessive for gastropub portions or concept",
+      "Limited capacity and high demand make advance reservations essential; walk-in service practically impossible"
+    ],
+    "itemId": 1000065
+  },
+  {
+    "name": "Restaurant Opaline",
+    "location": "8 rue Pailleron Croix Rousse, Intersection de la rue Pailleron et de la rue du Mail, 69004 Lyon France",
+    "type": "Gastropub",
+    "food_style": "Gastropub, French, European, Contemporary, Fusion",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "confit canard revisité",
+      "croquettes aux fromages de région",
+      "burger haute cuisine"
+    ],
+    "vibe": [
+      "neighbourhood-focused",
+      "contemporary-casual",
+      "intimate",
+      "creative-energy"
+    ],
+    "environment": "Opaline occupies a corner perch in Croix-Rousse where gastropub sensibilities meet French technique—a space that takes itself seriously without pretension. The kitchen seems genuinely invested in playful reinterpretation of European classics, layering umami-forward preparations with seasonal restraint. This is dining for people who want wit and substance in equal measure, not just nostalgia.",
+    "shortcomings": [
+      "pricing at €€€ peaks can feel steep for gastropub informality",
+      "popularity creates ambient noise that can overwhelm quieter conversations"
+    ],
+    "itemId": 1000066
+  },
+  {
+    "name": "Le Petit Carron",
+    "location": "48 avenue Felix Faure, 69003 Lyon France",
+    "type": "Gastropub",
+    "food_style": "Gastropub",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Terrine de foies de volaille",
+      "Côte de bœuf rôtie",
+      "Gratin de queue de bœuf"
+    ],
+    "vibe": [
+      "casual-elegant",
+      "convivial",
+      "modern-bistro",
+      "neighborhood-focused",
+      "unpretentious"
+    ],
+    "environment": "Le Petit Carron bridges gastropub informality with refined execution, offering the kind of cooking that respects ingredients without affectation. Located on avenue Félix Faure in Guillotière, it captures the spirit of Lyon's evolving dining scene—neither a traditional bouchon nor a slick modern venture, but something in between that clearly resonates with its substantial local following.",
+    "shortcomings": [
+      "Mid-range pricing can feel steep for gastropub portions on off-nights; value clarity varies by dish selection.",
+      "Popular weekend service can become stretched, occasionally resulting in pacing delays despite friendly staff."
+    ],
+    "itemId": 1000067
+  },
+  {
+    "name": "Le Wagon Bar",
+    "location": "34 Place Bellecour, 69002 Lyon France",
+    "type": "Gastropub",
+    "food_style": "Gastropub, French",
+    "rating": 4.5,
+    "price_range": "€€€€",
+    "signatures": [
+      "Confit de canard",
+      "Burger de qualité supérieure",
+      "Cheese board with artisanal selection"
+    ],
+    "vibe": [
+      "contemporary-casual",
+      "bustling",
+      "cosmopolitan",
+      "convivial"
+    ],
+    "environment": "Le Wagon Bar sits on the grand Place Bellecour with the confidence of a restaurant that understands modern European tastes without abandoning Lyon's gastronomic roots. It bridges gastropub informality with French culinary technique, offering refined comfort food in a setting that's polished but unpretentious—ideal for those seeking substance over stuffiness.",
+    "shortcomings": [
+      "Price point (€€€€) positions it above typical casual dining, which may feel steep for gastropub portions and setting expectations of fine-dining precision",
+      "High foot traffic and popularity can lead to crowding during peak hours, potentially compromising the intimate feel some diners expect at this price level"
+    ],
+    "itemId": 1000068
+  },
+  {
+    "name": "Le Grand Réfectoire",
+    "location": "3 Cour Saint Henri Grand Hotel Dieu, 69002 Lyon France",
+    "type": "Gastropub",
+    "food_style": "Gastropub, French",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelle de brochet",
+      "Andouillette AAAA sauce moutarde",
+      "Volaille de Bresse rôtie"
+    ],
+    "vibe": [
+      "convivial",
+      "contemporary-bouchon",
+      "buzzing",
+      "architectural-interest"
+    ],
+    "environment": "Housed within the Grand Hôtel-Dieu's historic courtyard complex, Le Grand Réfectoire reimagines Lyon's bouchon tradition through a gastropub lens—marrying regional Lyonnais classics with casual, ingredient-driven cooking. The setting itself is arresting: stone arcades and vaulted spaces that echo the building's 17th-century hospital heritage, creating an unexpectedly refined backdrop for hearty, unfussy food.",
+    "shortcomings": [
+      "Price-to-portion ratio veers toward the generous side of middle-market; the gastropub concept and location command a slight premium that not all diners expect from casual dining",
+      "Service can lag during peak dining hours given the venue's popularity and architectural complexity; table spacing in some sections feels compact despite the grand courtyard setting"
+    ],
+    "itemId": 1000069
+  },
+  {
+    "name": "Le Grand Liban",
+    "location": "44 quai Saint Vincent, 69001 Lyon France",
+    "type": "Grill",
+    "food_style": "Grill, Middle Eastern, Lebanese, Mediterranean",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Brochettes de poulet mariné",
+      "Plateau de mezzés grillés",
+      "Kofta d'agneau"
+    ],
+    "vibe": [
+      "convivial",
+      "casual-elegant",
+      "quayside charm",
+      "bustling"
+    ],
+    "environment": "Le Grand Liban brings the warmth of Lebanese hospitality to the Saône's edge, where charcoal-grilled meats and Mediterranean flavors meet Lyon's riverside energy. The restaurant balances approachable comfort with careful technique, drawing steady crowds who appreciate straightforward, well-executed grilling over fussy presentation.",
+    "shortcomings": [
+      "Service can lag during peak hours despite good intentions; coordination between kitchen and front-of-house occasionally stumbles when tables fill quickly.",
+      "Price-to-portion ratio tilts upward—expect to spend at the higher end of the bracket for what amounts to straightforward grilled fare, though quality justifies much of it."
+    ],
+    "itemId": 1000070
+  },
+  {
+    "name": "Le Neuvieme Art",
+    "location": "173 rue Cuvier, 69006 Lyon France",
+    "type": "Healthy",
+    "food_style": "Healthy",
+    "rating": 5.0,
+    "price_range": "€€€€",
+    "signatures": [
+      "Assiette détox composée (seasonal vegetables, fermented components, light vinaigrette)",
+      "Protéine blanche de saison (poisson ou volaille grillée, sauce amère légère)",
+      "Dessert sans sucre raffiné (fruit frais, texture crémeuse, finition délicate)"
+    ],
+    "vibe": [
+      "minimalist",
+      "wellness-focused",
+      "contemporary",
+      "refined",
+      "ingredient-driven"
+    ],
+    "environment": "Le Neuvième Art occupies a rarefied space in Lyon's dining landscape, eschewing the region's traditional richness in favor of meticulously sourced, technique-driven healthy cuisine. The kitchen demonstrates intellectual rigor in balancing nutrition with flavor complexity, appealing to diners who view eating as an act of intentional nourishment rather than indulgence. The consistent 5-star rating across 840 reviews suggests exceptional execution in a genre that often sacrifices satisfaction for virtue.",
+    "shortcomings": [
+      "The €€€€ price point may feel prohibitive for health-conscious dining, positioning the restaurant as luxury wellness rather than accessible healthy eating",
+      "The strict healthy cuisine mandate could alienate diners seeking occasional indulgence or traditional Lyon comfort food flavors"
+    ],
+    "itemId": 1000071
+  },
+  {
+    "name": "Laska",
+    "location": "13 rue Terraille, 69001 Lyon France",
+    "type": "Healthy",
+    "food_style": "Healthy, Fusion",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Buddha bowl with seasonal vegetables and protein-forward grains",
+      "Poisson cru or raw fish preparations with Asian-inspired dressings",
+      "House-made vegetable terrines and plant-based alternatives"
+    ],
+    "vibe": [
+      "contemporary",
+      "health-conscious",
+      "casual-refined",
+      "buzzing at lunch"
+    ],
+    "environment": "Laska brings a modern sensibility to Lyon dining by blending healthy eating with thoughtful fusion techniques—a departure from the city's traditional heavy gastronomy. Located on rue Terraille in the compact Vieux Lyon district, it appeals to professionals and locals seeking nutrient-dense meals without sacrificing flavor or technique.",
+    "shortcomings": [
+      "Limited seating and reservation pressure during peak lunch hours, typical for the narrow rue Terraille location",
+      "Fusion approach may feel less distinctly Lyonnais to traditionalists; pricing at the higher end of €€-€€€ reflects trend-driven positioning rather than value-for-money"
+    ],
+    "itemId": 1000072
+  },
+  {
+    "name": "Les Mauvaises Herbes",
+    "location": "3 rue du Jardin des Plantes, 69001 Lyon France",
+    "type": "Healthy",
+    "food_style": "Healthy, International, Contemporary",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Salade de feuilles sauvages avec vinaigrette herbacée",
+      "Légumes de saison rôtis aux épices",
+      "Bol composé du jour"
+    ],
+    "vibe": [
+      "garden-focused",
+      "wellness-oriented",
+      "contemporary-casual",
+      "light-filled",
+      "ingredient-conscious"
+    ],
+    "environment": "Les Mauvaises Herbes translates its name into a philosophy: what others discard, this kitchen celebrates. Located in the Vieux Lyon's botanical quarter, it eschews the region's traditional heavy fare in favor of vegetable-forward, internationally-inflected dishes that feel both nourishing and intellectually curious. The dining room reflects this ethos—bright, unfussy, with a focus on the plate rather than ornament.",
+    "shortcomings": [
+      "As a health-forward spot in a city obsessed with butter and quenelles, it may feel austere to traditionalists; the 4.5 rating suggests some find it too restrained.",
+      "Moderate price point for portions that lean vegetable-heavy means perceived value can vary—meat-eaters may feel shortchanged."
+    ],
+    "itemId": 1000073
+  },
+  {
+    "name": "Bagel Corner Lyon",
+    "location": "24 rue Neuve, 69002 Lyon France",
+    "type": "Healthy",
+    "food_style": "Healthy, Street Food, American",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Smoked salmon & cream cheese bagel",
+      "Grilled chicken & avocado wrap",
+      "Buddha bowl with roasted vegetables"
+    ],
+    "vibe": [
+      "casual",
+      "quick-service",
+      "health-conscious",
+      "contemporary"
+    ],
+    "environment": "Bagel Corner Lyon brings a straightforward American sandwich ethos to rue Neuve, positioning itself as a lighter counterpoint to the region's rich bouchon tradition. The formula is unpretentious—quality bagels, fresh proteins, and vegetable-forward assembly—executed with enough consistency to earn solid repeat custom among the office-lunch crowd and wellness-minded Lyonnais.",
+    "shortcomings": [
+      "Limited seating and high turnover mean it's primarily a takeaway operation; sitting down can feel rushed during peak hours",
+      "As a single-location concept, menu variety is narrow compared to sandwich shops that rotate seasonal specials; pricing at this level may feel steep for a bagel to some Lyon regulars"
+    ],
+    "itemId": 1000074
+  },
+  {
+    "name": "L'Origo",
+    "location": "2 rue Celu 2 Rue Celu, 69004 Lyon France",
+    "type": "Healthy",
+    "food_style": "Healthy, Dining bars",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Buddha bowls with seasonal vegetables",
+      "Cold-pressed juices and smoothies",
+      "Grilled proteins with roasted vegetables"
+    ],
+    "vibe": [
+      "health-conscious",
+      "modern casual",
+      "bright and airy",
+      "social dining"
+    ],
+    "environment": "L'Origo champions clean eating in Lyon's Croix-Rousse quarter, blending the casual momentum of a dining bar with genuine nutritional discipline. Rather than chasing wellness trends, it executes straightforward vegetable-forward cooking with occasional proteins, attracting locals who value transparency in their ingredients over elaborate technique.",
+    "shortcomings": [
+      "Limited depth for those seeking richness or indulgence—the health-first philosophy can feel austere to diners expecting comfort",
+      "Modest seating capacity means weekend midday service grows cramped; tables turn quickly, limiting lingering"
+    ],
+    "itemId": 1000075
+  },
+  {
+    "name": "Indian Cantine",
+    "location": "61-67 Place Voltaire, 69003 Lyon France",
+    "type": "Indian",
+    "food_style": "Indian",
+    "rating": 5.0,
+    "price_range": "€",
+    "signatures": [
+      "poulet tikka masala",
+      "naan fraîchement cuit",
+      "dal makhani"
+    ],
+    "vibe": [
+      "casual",
+      "bustling",
+      "neighborhood-focused",
+      "convivial"
+    ],
+    "environment": "Indian Cantine brings authentic subcontinent cooking to Place Voltaire with the directness and energy of a working kitchen that doesn't fuss with pretension. The 5.0 rating across 74 reviews suggests consistent execution of curries, breads, and rice dishes that satisfy rather than surprise—the kind of place regulars return to for reliability rather than novelty.",
+    "shortcomings": [
+      "Limited menu may feel repetitive for frequent Indian cuisine diners",
+      "Modest seating and peak-hour waits are likely given the location and popularity"
+    ],
+    "itemId": 1000076
+  },
+  {
+    "name": "Bollywood Tandoor",
+    "location": "32 rue de Marseille, 69007 Lyon France",
+    "type": "Indian",
+    "food_style": "Indian",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "tandoori chicken",
+      "paneer tikka masala",
+      "lamb biryani"
+    ],
+    "vibe": [
+      "casual",
+      "vibrant",
+      "aromatic",
+      "unpretentious",
+      "lively"
+    ],
+    "environment": "Bollywood Tandoor brings authentic North Indian cooking to Lyon's Gerland district with straightforward execution and genuine spice work that appeals equally to subcontinental expats and French diners discovering proper tandoori technique. The modest storefront on rue de Marseille belies a kitchen that respects tradition—expect fragrant naan emerging from a proper tandoor and curries built on layered spice foundations rather than cream-heavy shortcuts.",
+    "shortcomings": [
+      "Service can feel rushed during dinner peaks; timing between courses sometimes irregular",
+      "Décor is functional rather than refined—basic tables and fluorescent lighting don't match the food's quality"
+    ],
+    "itemId": 1000077
+  },
+  {
+    "name": "Rose Indien",
+    "location": "73 rue Marietton, 69009 Lyon France",
+    "type": "Indian",
+    "food_style": "Indian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Poulet Tandoori",
+      "Naan au fromage",
+      "Curry de Chèvre"
+    ],
+    "vibe": [
+      "warm and convivial",
+      "unpretentious",
+      "spice-forward",
+      "neighborhood favorite"
+    ],
+    "environment": "Rose Indien brings competent North Indian cooking to Lyon's 9th arrondissement, operating at a level of execution that justifies its solid 4.5-star standing among 288 reviewers. The restaurant balances accessible spicing with authentic technique, avoiding both the dilution of tourist-oriented Indian restaurants and the intimidation of heavily regional haute-cuisine approaches.",
+    "shortcomings": [
+      "Pricing (€€-€€€) occasionally feels steep for portions, particularly for vegetable dishes",
+      "Service can lag during peak dinner hours given the restaurant's evident popularity, sometimes affecting pacing"
+    ],
+    "itemId": 1000078
+  },
+  {
+    "name": "Le Penjab",
+    "location": "25 B quai Romain Rolland Romain Rolland, 69005 Lyon France",
+    "type": "Indian",
+    "food_style": "Indian, Pakistani",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "tandoori preparations with charred aromatics",
+      "paneer or meat curries with layered spice balance",
+      "freshly prepared naan or parathas"
+    ],
+    "vibe": [
+      "cosmopolitan",
+      "casual-elegant",
+      "warm",
+      "bustling",
+      "riverside-adjacent"
+    ],
+    "environment": "Le Penjab brings the nuanced spice traditions of the Indian subcontinent to Lyon's Quai Romain Rolland, offering neither dumbed-down curry-house fare nor precious fusion experimentation. With a 4.5-star consensus across 277 reviews, it's earned respect for executing tandoori and regional Pakistani-Indian preparations with technical precision and integrity.",
+    "shortcomings": [
+      "pricing sits at the higher end of Lyon's Indian dining—expect to pay €€€ for a full meal with drinks, which may feel steep versus comparable neighbourhood options",
+      "riverside location can mean variable noise levels during peak dinner service; the casual décor occasionally struggles to manage acoustics"
+    ],
+    "itemId": 1000079
+  },
+  {
+    "name": "La Voie Himalaya",
+    "location": "200 rue Garibaldi, 69003 Lyon France",
+    "type": "Indian",
+    "food_style": "Indian, Asian, Tibetan, Nepalese",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "momo (dumplings)",
+      "curry de yak ou agneau",
+      "naan traditionnel"
+    ],
+    "vibe": [
+      "warm and unpretentious",
+      "intimate",
+      "aromatic",
+      "convivial"
+    ],
+    "environment": "La Voie Himalaya brings the layered cuisines of the Himalayan region to Lyon's Garibaldi district with genuine technique and respect for tradition. This is Indian, Tibetan, and Nepalese cooking executed with care rather than theatricality—the kind of place where spice profiles deepen with each visit and regulars know exactly what to order.",
+    "shortcomings": [
+      "Service can be slow during peak hours, occasionally lacking coordination despite good intentions",
+      "Price-to-portion ratio creeps toward the upper range for the category; some dishes feel modest for €€€"
+    ],
+    "itemId": 1000080
+  },
+  {
+    "name": "Roi Alexandre",
+    "location": "138 avenue Felix Faure, 69003 Lyon France",
+    "type": "International",
+    "food_style": "International, European, Russian, Eastern European, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pelmeni",
+      "Boeuf Stroganoff",
+      "Blini with caviar"
+    ],
+    "vibe": [
+      "cosmopolitan",
+      "convivial",
+      "intimate",
+      "eclectic"
+    ],
+    "environment": "Roi Alexandre occupies a fascinating position in Lyon's dining landscape—neither strictly a bouchon nor a refined gastronomic address, but rather a cultured bridge between Eastern European and French culinary traditions. The restaurant draws on its multicultural roots to offer refined comfort food with Russian and Eastern European accents, executed with surprising sophistication for its mid-range positioning. It's the kind of place where locals return regularly, appreciating the genuine cultural specificity that sets it apart from generic international fare.",
+    "shortcomings": [
+      "Service can be uneven during peak hours, occasionally feeling rushed despite the intimate setting",
+      "The €€-€€€ pricing sits awkwardly—ambitious enough to feel pricey for casual dining, yet not quite reaching the polish expected at fine dining rates"
+    ],
+    "itemId": 1000081
+  },
+  {
+    "name": "Sept Epices",
+    "location": "4 rue Saint Jerome, 69007 Lyon France",
+    "type": "International",
+    "food_style": "International, Lebanese, Middle Eastern, Mediterranean",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Kibbeh",
+      "Fattoush",
+      "Lamb with pomegranate molasses"
+    ],
+    "vibe": [
+      "cosmopolitan",
+      "casual-elegant",
+      "intimate",
+      "warm-spiced"
+    ],
+    "environment": "Sept Épices brings Levantine and Mediterranean sensibilities to the Presqu'île, moving confidently beyond the bouchon tradition that dominates Lyon's dining landscape. The kitchen balances Lebanese technique with broader Middle Eastern and Mediterranean ingredients, creating dishes that feel both grounded and exploratory—a rare posture in a city often wedded to its own culinary canon.",
+    "shortcomings": [
+      "The €€-€€€ positioning can feel inconsistent across the menu; some à la carte pricing edges toward restaurant-mode while certain mezze retain street-food friendliness.",
+      "Service pacing, judging by review patterns, occasionally stumbles during peak hours—enthusiasm outpaces coordination."
+    ],
+    "itemId": 1000082
+  },
+  {
+    "name": "Soline",
+    "location": "89 rue Paul Bert, 69003 Lyon France",
+    "type": "International",
+    "food_style": "International, Healthy, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "salade composée with seasonal vegetables and house vinaigrette",
+      "poisson du jour en papillote",
+      "grain bowl avec légumes de saison"
+    ],
+    "vibe": [
+      "contemporary",
+      "health-conscious",
+      "approachable-elegant",
+      "daytime-focused"
+    ],
+    "environment": "Soline occupies a middle ground between Lyon's traditional bouchon culture and modern wellness dining, offering refined international plates with visible attention to ingredient quality and balance. Located on the perpetually lively rue Paul Bert, it appeals to professionals and residents seeking lighter, vegetable-forward cooking without the heaviness of classic Lyonnais fare, while still respecting French technique.",
+    "shortcomings": [
+      "pricing sits at the higher end for the portion sizes and casual plating style—€€€ expectations may not fully align with the unpretentious presentation",
+      "service can feel stretched during peak lunch hours, with attentiveness varying depending on table location"
+    ],
+    "itemId": 1000083
+  },
+  {
+    "name": "Le Mouton Danse",
+    "location": "33 rue de la Thibaudiere, 69007 Lyon France",
+    "type": "International",
+    "food_style": "International, Fusion, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Quenelles de brochet",
+      "Côte de veau aux herbes",
+      "Tarte aux pralines roses"
+    ],
+    "vibe": [
+      "convivial",
+      "contemporary-casual",
+      "neighborhood-forward",
+      "approachable"
+    ],
+    "environment": "Le Mouton Danse charts an unpretentious middle path between Lyon's classical bouchon heritage and modern European sensibility, blending French fundamentals with global inflections. The kitchen respects technique without posturing, drawing on French foundations while embracing selective cross-cultural touches—a temperament that appeals to diners seeking substance over novelty. The solid 4.5-star consensus suggests reliable execution and genuine hospitality in a setting that rewards regulars without alienating newcomers.",
+    "shortcomings": [
+      "The fusion identity can feel cautious rather than inspired; expect competent eclecticism rather than bold innovation.",
+      "Service pacing may slip during peak hours, and the €€-€€€ bracket price-to-portion ratio can feel slightly tight for the neighborhood positioning."
+    ],
+    "itemId": 1000084
+  },
+  {
+    "name": "Johnny's Kitchen",
+    "location": "48 rue Saint Georges, 69005 Lyon France",
+    "type": "Irish",
+    "food_style": "Irish, Pub, Bar, European",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "Irish stew",
+      "fish and chips",
+      "soda bread"
+    ],
+    "vibe": [
+      "convivial",
+      "casual-spirited",
+      "warm-amber lighting",
+      "unpretentious"
+    ],
+    "environment": "Johnny's Kitchen brings authentic Irish hospitality to Lyon's Vieux Ville, a straightforward pub where comfort food and generous pours take precedence over fussiness. Located on rue Saint Georges in a neighbourhood that prizes local character, it offers respite from the city's more formal dining conventions—a place where conversation flows as freely as the Guinness.",
+    "shortcomings": [
+      "Can feel crowded during evening service, with noise levels that may frustrate those seeking intimate conversation",
+      "Limited menu range reflects its pub identity; those expecting gastropub refinement may find the cooking deliberately straightforward rather than adventurous"
+    ],
+    "itemId": 1000085
+  },
+  {
+    "name": "James Joyce Pub",
+    "location": "Rue St Jean, 69005 Lyon France",
+    "type": "Irish",
+    "food_style": "Irish, Pub, Bar",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "Fish and chips",
+      "Irish stew",
+      "Colcannon"
+    ],
+    "vibe": [
+      "convivial",
+      "wood-paneled",
+      "unpretentious",
+      "lively",
+      "expat-friendly"
+    ],
+    "environment": "James Joyce Pub occupies a corner of Rue St Jean in Vieux Lyon with the straightforward appeal of an Irish local transplanted to French soil. The menu cleaves to pub staples—fish and chips, stews, soda bread—executed without pretension, while the bar's gravity pulls in a reliable mix of Dubliners, homesick Anglophone residents, and curious locals seeking refuge from bouchon formality.",
+    "shortcomings": [
+      "Service can be slow during peak evening hours when the bar fills with its regular crowd, diluting the casual appeal.",
+      "The kitchen's Irish-pub formula offers little culinary ambition, which limits appeal beyond comfort-food seekers and those craving cultural continuity."
+    ],
+    "itemId": 1000086
+  },
+  {
+    "name": "Pasta & Basta",
+    "location": "10 rue Mourguet, 69005 Lyon France",
+    "type": "Italian",
+    "food_style": "Italian, Mediterranean, European",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Tagliatelle al ragù",
+      "Risotto ai funghi",
+      "Burrata con pomodori"
+    ],
+    "vibe": [
+      "intimate",
+      "casual-elegant",
+      "neighborhood charm",
+      "convivial"
+    ],
+    "environment": "Pasta & Basta brings genuine Italian cooking to the Vieux Lyon quarter, focusing on fresh pasta and Mediterranean simplicity rather than heavy sauces. The near-perfect rating suggests consistent execution and an owner's attentiveness that elevates what could be routine Italian fare into something memorable on this stretch of rue Mourguet.",
+    "shortcomings": [
+      "Located on a narrow side street with limited seating; no reservation system means weekend waits can be frustrating",
+      "Price-to-portion ratio edges toward the premium side for pasta dishes, particularly appetizers—value shines more in mains and sharing plates"
+    ],
+    "itemId": 1000087
+  },
+  {
+    "name": "MAX CALL",
+    "location": "21 Grande rue de la Guillotiere, 69007 Lyon France",
+    "type": "Italian",
+    "food_style": "Italian, Pizza",
+    "rating": 5.0,
+    "price_range": "€",
+    "signatures": [
+      "Pizza Margherita",
+      "Pasta al ragù",
+      "Focaccia"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood-driven",
+      "no-frills",
+      "bustling"
+    ],
+    "environment": "MAX CALL operates as a straightforward Italian pizzeria on the Guillotière corridor, a working-class Lyon neighborhood known for authentic, unpretentious eating. The near-perfect 5.0 rating across 53 reviews suggests disciplined execution of core pizzas and pastas rather than culinary ambition—expect Neapolitan-leaning pies and honest Italian preparations executed with respect for ingredients and technique, not innovation.",
+    "shortcomings": [
+      "Limited seating and no table reservation system likely means weekend waits; the € price point draws crowds in a dense neighborhood.",
+      "As a pizzeria-focused establishment, wine selection is probably modest and beer-forward; not a destination for serious Italian wine pairing."
+    ],
+    "itemId": 1000088
+  },
+  {
+    "name": "Via Barcatta",
+    "location": "38 rue de la Tete D Or, 69006 Lyon France",
+    "type": "Italian",
+    "food_style": "Italian, Wine Bar",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Antipasti board with cured meats and artisanal cheeses",
+      "Handmade pasta with seasonal sauces",
+      "Italian wine selections curated beyond the obvious"
+    ],
+    "vibe": [
+      "intimate",
+      "wine-focused",
+      "contemporary-italian",
+      "sophisticated-casual"
+    ],
+    "environment": "Via Barcatta brings a refined Italian sensibility to the Presqu'île district, positioning itself as a wine bar with serious culinary intent rather than a traditional trattoria. The 5.0 rating across 50 reviews suggests a small, devoted clientele rather than high-volume popularity, likely attracting those who appreciate Italian regional cooking paired thoughtfully with wines.",
+    "shortcomings": [
+      "The €€-€€€ pricing sits at the higher end for Italian dining in Lyon, which may feel steep for simpler preparations",
+      "Limited seating and high review concentration suggest potential difficulty securing a table, especially on weekends"
+    ],
+    "itemId": 1000089
+  },
+  {
+    "name": "La Scala Siciliana",
+    "location": "3 rue Commandant Dubois, 69003 Lyon France",
+    "type": "Italian",
+    "food_style": "Italian, Pizza, European, Sicilian, Southern-Italian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Arancini",
+      "Pasta alla Norma",
+      "Pizza Siciliana",
+      "Swordfish involtini"
+    ],
+    "vibe": [
+      "warm",
+      "convivial",
+      "Southern charm",
+      "rustic-elegant"
+    ],
+    "environment": "La Scala Siciliana brings authentic Sicilian cooking to Lyon's Presqu'île district with generous portions and an unpretentious atmosphere that feels more trattoria than fine dining. The kitchen honors traditional Southern Italian flavors—expect robust pasta dishes, seafood preparations, and wood-fired pizza executed with respect for regional technique rather than trendy reinterpretation.",
+    "shortcomings": [
+      "Service can be stretched thin during peak hours, affecting table turnaround",
+      "Price-to-portion ratio feels generous but edges toward mid-range despite modest décor, which may frustrate minimalists"
+    ],
+    "itemId": 1000090
+  },
+  {
+    "name": "Pizzeria Napoli Chez Nicolo & Franco Morreale",
+    "location": "45 rue Franklin, 69002 Lyon France",
+    "type": "Italian",
+    "food_style": "Italian, Pizza, European, Sicilian, Southern-Italian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pizza alla Siciliana",
+      "Arancini siciliani",
+      "Pasta alla Norma"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "bustling",
+      "authentic-southern-italian",
+      "family-run"
+    ],
+    "environment": "A straightforward Sicilian pizzeria on rue Franklin where Nicolo and Franco Morreale have built a loyal following through consistent, wood-fired execution rather than presentation. The restaurant channels the working-class energy of Naples and Palermo—honest food, lively service, and a clientele that values substance over ambiance.",
+    "shortcomings": [
+      "Noise levels spike during peak hours; conversation becomes difficult",
+      "Table spacing is tight; expect elbows from neighbors and occasional jostling by staff"
+    ],
+    "itemId": 1000091
+  },
+  {
+    "name": "Bentomania Honten",
+    "location": "164 rue Paul Bert, 69003 Lyon France",
+    "type": "Japanese",
+    "food_style": "Japanese, Asian",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Assorted bento boxes (seasonal)",
+      "Nigiri selection with rare fish rotation",
+      "Miso-based broths and dashi-forward sides"
+    ],
+    "vibe": [
+      "contemporary",
+      "intimate",
+      "focused",
+      "precise"
+    ],
+    "environment": "Bentomania Honten brings disciplined Japanese craftsmanship to Lyon's Presqu'île district, eschewing the casual izakaya model for composed, exacting plates that reward close attention. The restaurant's perfect rating across 55 reviews suggests a team fixated on consistency—each component calibrated, each technique deliberate, reflecting the mentality of serious bento and kaiseki traditions.",
+    "shortcomings": [
+      "Limited capacity and advance booking often required; spontaneous visits rarely accommodated",
+      "Mid-to-upper price range for portion sizes may feel steep for casual diners unfamiliar with Japanese fine-dining economics"
+    ],
+    "itemId": 1000092
+  },
+  {
+    "name": "Miko Sushi",
+    "location": "140 avenue Felix Faure, 69003 Lyon France",
+    "type": "Japanese",
+    "food_style": "Japanese, Sushi, Asian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "nigiri assortments",
+      "maki compositions",
+      "sashimi plateaux"
+    ],
+    "vibe": [
+      "contemporary",
+      "polished",
+      "bustling",
+      "date-night friendly"
+    ],
+    "environment": "Miko Sushi commands respect on Lyon's Japanese dining scene with technical precision and sourced-consciously executed sushi. The restaurant balances modern aesthetics with genuine craft—this is serious sushi work, not theatre, presented in a setting that feels refined without pretension.",
+    "shortcomings": [
+      "pricing climbs steeply for premium omakase experiences, testing mid-range budgets",
+      "service can feel rushed during peak hours despite strong technical execution"
+    ],
+    "itemId": 1000093
+  },
+  {
+    "name": "Gang Nam",
+    "location": "6 rue Thomassin, 69002 Lyon France",
+    "type": "Japanese",
+    "food_style": "Japanese, Barbecue, Asian, Korean",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "yakitori",
+      "Korean barbecue table grilling",
+      "gyoza"
+    ],
+    "vibe": [
+      "contemporary",
+      "social",
+      "interactive",
+      "sleek"
+    ],
+    "environment": "Gang Nam occupies a distinctive position in Lyon's dining landscape, blending Japanese precision with Korean and barbecue traditions in a modern setting on rue Thomassin. The format—likely featuring table grilling or open-fire cooking—transforms dinner into a participatory experience rather than passive consumption, resonating with diners seeking engagement beyond plated gastronomy. Its solid 4.5-star rating across nearly 300 reviews suggests reliable execution of a hybrid concept that appeals to both adventurous eaters and those seeking accessible, interactive dining.",
+    "shortcomings": [
+      "Table grilling restaurants often generate smoke and noise; not ideal for those seeking quiet, refined ambiance",
+      "Interactive cooking format can create inconsistent results depending on diner skill; premium pricing may feel steep when execution relies partly on the customer"
+    ],
+    "itemId": 1000094
+  },
+  {
+    "name": "Tomo",
+    "location": "7 rue Pierre Corneille, 69006 Lyon France",
+    "type": "Japanese",
+    "food_style": "Japanese, Asian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "nigiri omakase",
+      "maki assortments",
+      "grilled fish preparations"
+    ],
+    "vibe": [
+      "intimate",
+      "modern-minimalist",
+      "carefully-paced",
+      "refined-casual"
+    ],
+    "environment": "Tomo brings disciplined Japanese technique to Lyon's gastronomic landscape, occupying a middle ground between casual sushi bar and fine dining. The 4.5-star rating across 260 reviews suggests consistent execution of nigiri, sashimi, and cooked preparations, with the €€-€€€ pricing reflecting quality ingredients and skilled preparation rather than luxury theatrics.",
+    "shortcomings": [
+      "Limited seating and reservation-dependent service may frustrate walk-in diners during peak hours",
+      "The mid-range pricing positions it above casual spots but below Tokyo-trained omakase specialists, potentially creating expectation misalignment for either budget-conscious or ultra-premium seekers"
+    ],
+    "itemId": 1000095
+  },
+  {
+    "name": "Kan Food",
+    "location": "249 rue Paul Bert, 69003 Lyon France",
+    "type": "Japanese",
+    "food_style": "Japanese, Sushi, Asian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "nigiri sushi",
+      "sashimi platter",
+      "maki rolls"
+    ],
+    "vibe": [
+      "contemporary",
+      "intimate",
+      "buzzing",
+      "minimalist"
+    ],
+    "environment": "Kan Food brings refined Japanese technique to Lyon's Guillotière district, occupying a sleek modern space on rue Paul Bert that contrasts sharply with the neighbourhood's traditional bouchon establishments. The kitchen demonstrates genuine respect for sushi craft and Japanese flavour profiles, appealing to diners seeking precision-driven cuisine rather than casual Asian comfort food.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours, with limited staff for the restaurant's popularity",
+      "Price-to-portion ratio edges toward the higher end for Lyon's casual dining scene, with premium items quickly pushing bills above €€€"
+    ],
+    "itemId": 1000096
+  },
+  {
+    "name": "Imouto",
+    "location": "21 rue Pasteur, 69007 Lyon France",
+    "type": "Japanese Fusion",
+    "food_style": "Japanese Fusion",
+    "rating": 4.0,
+    "price_range": "€€€€",
+    "signatures": [
+      "nigiri with local ingredients",
+      "miso-based reductions with French technique",
+      "seasonal tasting menu"
+    ],
+    "vibe": [
+      "modern minimalist",
+      "sophisticated",
+      "intimate",
+      "sleek"
+    ],
+    "environment": "Imouto presents Japanese fusion cuisine with the precision and restraint typical of high-end Lyon dining, occupying a refined space in the Presqu'île district. The kitchen clearly respects Japanese fundamentals while introducing French sensibilities—expect refined plating and unexpected flavor combinations rather than casual ramen or izakaya fare. This is dining that demands attention and rewards it, though it operates on a different register than the city's traditional bouchon culture.",
+    "shortcomings": [
+      "premium pricing sits at the higher end even for Lyon's standards, which some find difficult to justify for fusion rather than pure Japanese kaiseki",
+      "service can feel formal to the point of stiffness, potentially at odds with the contemporary aesthetic"
+    ],
+    "itemId": 1000097
+  },
+  {
+    "name": "Wasabi",
+    "location": "76 Rue D’Anvers, 69007 Lyon France",
+    "type": "Korean",
+    "food_style": "Korean, Japanese, Sushi",
+    "rating": 4.5,
+    "price_range": "€€€€",
+    "signatures": [
+      "Bibimbap",
+      "Sushi omakase",
+      "Bulgogi"
+    ],
+    "vibe": [
+      "contemporary",
+      "polished",
+      "intimate",
+      "cosmopolitan"
+    ],
+    "environment": "Wasabi brings a refined approach to Korean and Japanese cuisine to Lyon's Presqu'île district, trading the casual energy of traditional bouchons for precision-driven cooking and curated presentation. The high rating and substantial review base suggest a restaurant that has built genuine reputation beyond novelty, likely attracting both Korean food enthusiasts and diners seeking elevated East Asian flavors in a city historically anchored to French gastronomy.",
+    "shortcomings": [
+      "Premium pricing (€€€€) may feel steep for Korean cuisine relative to Lyon's traditional dining scene, potentially limiting repeat visits for price-conscious locals",
+      "The four-cuisine identity (Korean, Japanese, Sushi) across one kitchen can dilute focus—execution excellence across such range requires exceptional discipline"
+    ],
+    "itemId": 1000098
+  },
+  {
+    "name": "LA PALOMA DEL SOL",
+    "location": "25 rue Tramassac, 69005 Lyon France",
+    "type": "Latin",
+    "food_style": "Latin, European, Spanish, Mediterranean",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Ceviche preparations with local fish",
+      "Slow-cooked rabo encendido or cocido Madrileño",
+      "Tapas selection showcasing Iberian cured meats"
+    ],
+    "vibe": [
+      "warm",
+      "convivial",
+      "rustic-modern",
+      "buzzing"
+    ],
+    "environment": "La Paloma del Sol anchors itself in the historic Vieux Lyon quarter with a Mediterranean-Latin sensibility that feels both grounded and deliberately curated. The kitchen balances Spanish and broader Latin American traditions with European technique, creating a more sophisticated take on casual Latin dining than the bouchon restaurants that dominate the neighbourhood.",
+    "shortcomings": [
+      "Service can be inconsistent during peak hours—attentiveness drops when tables fill quickly",
+      "Price-to-portion ratio tilts upward for tapas; ordering enough to satisfy can surprise the bill"
+    ],
+    "itemId": 1000099
+  },
+  {
+    "name": "Casa Jaguar",
+    "location": "157 rue Cuvier, 69006 Lyon France",
+    "type": "Latin",
+    "food_style": "Latin, Central American",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Ceviche",
+      "Tacos al pastor",
+      "Pupusas"
+    ],
+    "vibe": [
+      "casual-tropical",
+      "vibrant",
+      "neighborhood-spirited",
+      "approachable",
+      "colorful"
+    ],
+    "environment": "Casa Jaguar brings Central American warmth to Lyon's Presqu'île district, offering robust Latin flavors without pretension. The kitchen leans into bold spice and authentic technique, positioning itself as a straightforward alternative to the city's classical French dining scene.",
+    "shortcomings": [
+      "Service can feel inconsistent during peak hours; pacing between courses occasionally rushes or stalls",
+      "Noise levels rise quickly in the compact dining space, making conversation difficult when full"
+    ],
+    "itemId": 1000100
+  },
+  {
+    "name": "Rose de Damas",
+    "location": "24 rue de la Viabert, 69006 Lyon France",
+    "type": "Lebanese",
+    "food_style": "Lebanese, Mediterranean, Middle Eastern",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Hummus aux pignons",
+      "Kibbé nayyé",
+      "Mezzé assortis with fresh pita"
+    ],
+    "vibe": [
+      "warm and convivial",
+      "intimate",
+      "family-oriented",
+      "unpretentious elegance",
+      "aromatic"
+    ],
+    "environment": "Rose de Damas brings the refined hospitality of Levantine cuisine to Lyon's Presqu'île district, where carefully sourced spices and traditional preparation methods create dishes that balance delicate flavors with substance. The restaurant's perfect rating across a substantial review base suggests consistent execution and genuine care in both kitchen and service—rare for a non-French establishment in a city deeply rooted in its own culinary traditions.",
+    "shortcomings": [
+      "Limited seating and no reservations policy may mean wait times during peak hours, particularly weekends",
+      "Price point (€€-€€€) positions it above casual mezze bars but below haute cuisine—value perception depends on portion expectations versus Parisian Lebanese benchmarks"
+    ],
+    "itemId": 1000101
+  },
+  {
+    "name": "Le Roi Falafel",
+    "location": "30 rue Palais Grillet, 69002 Lyon France",
+    "type": "Lebanese",
+    "food_style": "Lebanese, Mediterranean, Healthy, Middle Eastern",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "falafel",
+      "shawarma",
+      "mezze platter"
+    ],
+    "vibe": [
+      "casual",
+      "bright",
+      "neighborhood-focused",
+      "quick-service",
+      "convivial"
+    ],
+    "environment": "Le Roi Falafel occupies a straightforward corner of Presqu'île gastronomy, delivering honest Lebanese cooking in a no-frills setting on rue Palais Grillet. The kitchen prioritizes fresh mezze and chargrilled proteins over theatrical presentation, appealing to lunch crowds and those seeking Mediterranean flavors without pretense or inflated tabs.",
+    "shortcomings": [
+      "Limited seating and minimal decor mean the space can feel cramped during peak lunch hours; ambiance isn't a draw.",
+      "Service tends toward efficiency over attentiveness; don't expect table-side consultation on wine pairings or dietary accommodations."
+    ],
+    "itemId": 1000102
+  },
+  {
+    "name": "Le Cèdre Bleu",
+    "location": "10 quai Romain Rolland, 69005 Lyon France",
+    "type": "Lebanese",
+    "food_style": "Lebanese, Mediterranean, Middle Eastern",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Mezze assortis (hummus, baba ganoush, tabboulé)",
+      "Brochettes d'agneau",
+      "Fattoush"
+    ],
+    "vibe": [
+      "convivial",
+      "riverside",
+      "cosmopolitan",
+      "warm-toned",
+      "unpretentious"
+    ],
+    "environment": "Le Cèdre Bleu brings Levantine tradition to Lyon's quays with thoughtful Lebanese cooking that respects technique without theatrics. Positioned on the Saône's left bank, it captures the casual sophistication of Mediterranean dining—where mezze culture and grilled specialties unfold in a relaxed, welcoming setting that feels more neighbourhood than destination.",
+    "shortcomings": [
+      "Service can lag during peak hours; coordination between kitchen and front-of-house occasionally falters",
+      "Mid-range pricing places it above casual but without the refinement that justifies premium Lebanese dining elsewhere"
+    ],
+    "itemId": 1000103
+  },
+  {
+    "name": "Meza",
+    "location": "4 Place Jules Guesde, 69007 Lyon France",
+    "type": "Lebanese",
+    "food_style": "Lebanese, Mediterranean, Middle Eastern",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Kibbeh",
+      "Hummus maison",
+      "Grilled lamb with za'atar"
+    ],
+    "vibe": [
+      "convivial",
+      "cosmopolitan",
+      "casual-elegant",
+      "warmly-lit"
+    ],
+    "environment": "Meza brings authentic Lebanese cooking to Lyon's Gerland district with a straightforward approach that honors regional flavors without pretension. The kitchen balances rich, spiced preparations with fresh mezze that reflect the Mediterranean soul of Lebanese cuisine, drawing a loyal local crowd and attracting curious diners seeking something beyond the city's traditional bouchon fare.",
+    "shortcomings": [
+      "Service can feel rushed during peak dinner hours, occasionally missing table follow-ups",
+      "Pricing edges toward upper-mid-range for portions, making it less accessible for casual, frequent visits"
+    ],
+    "itemId": 1000104
+  },
+  {
+    "name": "Akle - Le Comptoir a Mezzes",
+    "location": "108 rue Chaponnay, 69003 Lyon France",
+    "type": "Lebanese",
+    "food_style": "Lebanese, Middle Eastern, Mediterranean",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Houmous",
+      "Kébab libanais",
+      "Fattoush"
+    ],
+    "vibe": [
+      "casual-convivial",
+      "counter-centric",
+      "warm-bustling",
+      "unpretentious"
+    ],
+    "environment": "Akle brings Levantine street food sensibility to Lyon's dining landscape, pivoting away from the city's traditional gastronomic heaviness toward bright, shareable mezze culture. The comptoir format encourages standing, mingling, and sampling across a focused menu of Lebanese classics executed with genuine technique—a refreshing counterpoint to formal French dining.",
+    "shortcomings": [
+      "Limited seating and standing-room-only crowds during peak hours can feel cramped and chaotic rather than festive",
+      "Service can be inconsistent—sometimes rushed, sometimes inattentive—typical of high-turnover counter operations"
+    ],
+    "itemId": 1000105
+  },
+  {
+    "name": "La Table d'Althusser",
+    "location": "258 rue Vendome, 69003 Lyon France",
+    "type": "Mediterranean",
+    "food_style": "Mediterranean, Middle Eastern",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Mezze selections with house-made labne and flatbreads",
+      "Slow-cooked lamb with preserved lemon and olives",
+      "Grilled fish with Mediterranean herbs and seasonal vegetables"
+    ],
+    "vibe": [
+      "Mediterranean warmth",
+      "unpretentious",
+      "neighborhood-focused",
+      "intimate"
+    ],
+    "environment": "La Table d'Althusser bridges Lyon's bouchon tradition with brighter Mediterranean and Middle Eastern influences, offering honest cooking without theatrical presentation. Located on rue Vendôme in Presqu'île, it draws locals seeking equilibrium between hearty French comfort and lighter, sun-struck flavors—a refreshing counterpoint to Lyon's rich pork-centric classics.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours, with occasional lapses in attentiveness",
+      "Pricing sits firmly in mid-to-upper range for neighborhood dining; value proposition clearer on lighter plates than entrées"
+    ],
+    "itemId": 1000106
+  },
+  {
+    "name": "Piquin",
+    "location": "16 rue d Essling, 69003 Lyon France",
+    "type": "Mexican",
+    "food_style": "Mexican, Latin, Central American",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Chiles rellenos",
+      "Carnitas tacos",
+      "Ceviche"
+    ],
+    "vibe": [
+      "casual-vibrant",
+      "neighborhood-forward",
+      "unpretentious",
+      "warm-crowded"
+    ],
+    "environment": "Piquin brings authentic Mexican and Central American cooking to Lyon's 3rd arrondissement with straightforward execution and genuine flavors rather than fusion theatrics. The space trades polish for personality—expect lively energy, honest portions, and the kind of place where locals return for consistency rather than Instagram moments.",
+    "shortcomings": [
+      "Service can lag during peak hours; staff stretch thin when tables fill simultaneously",
+      "Narrow price-to-portion ratio for some dishes—mid-range cost but portions modest by casual-dining standards"
+    ],
+    "itemId": 1000107
+  },
+  {
+    "name": "El Sombrero",
+    "location": "9 rue Pizay, 69001 Lyon France",
+    "type": "Mexican",
+    "food_style": "Mexican, Latin",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Tacos al pastor",
+      "Enchiladas verdes",
+      "Ceviche"
+    ],
+    "vibe": [
+      "vibrant",
+      "casual",
+      "convivial",
+      "colorful",
+      "lively"
+    ],
+    "environment": "El Sombrero brings authentic Mexican and Latin American flavors to Lyon's Presqu'île district, occupying a niche that stands apart from the city's traditional bouchon heritage. The kitchen demonstrates respect for regional Mexican techniques while remaining accessible to French diners, creating a bright counterpoint to Lyon's classical dining scene.",
+    "shortcomings": [
+      "Service can lag during peak hours despite the casual format, occasionally leaving tables feeling rushed or neglected",
+      "Price-to-portion ratio tilts toward the higher end of casual dining; some dishes feel modest for the €€€ positioning"
+    ],
+    "itemId": 1000108
+  },
+  {
+    "name": "Don Taco",
+    "location": "13 rue Merciere, 69002 Lyon France",
+    "type": "Mexican",
+    "food_style": "Mexican, Latin",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "tacos al pastor",
+      "ceviche",
+      "enchiladas verdes"
+    ],
+    "vibe": [
+      "casual",
+      "convivial",
+      "colorful",
+      "unpretentious",
+      "lively"
+    ],
+    "environment": "Don Taco brings an energetic counterpoint to Lyon's traditional dining landscape, nestled on rue Mercière in the heart of the Presqu'île district. The kitchen respects authentic Mexican flavors without pretension, offering genuine street food sensibilities in a relaxed setting that contrasts sharply with the city's bouchon heritage. A solid 4.0 rating suggests consistent execution and genuine hospitality rather than flash.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours on weekends, prioritizing turnover",
+      "The mid-to-high price tier (€€-€€€) sits slightly above comparable Mexican restaurants in other French cities, reflecting Lyon real estate rather than culinary extravagance"
+    ],
+    "itemId": 1000109
+  },
+  {
+    "name": "Mojgan",
+    "location": "20 rue Royale, 69001 Lyon France",
+    "type": "Middle Eastern",
+    "food_style": "Middle Eastern, Persian, Deli",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Tahdig (crispy saffron rice)",
+      "Kebab koobideh",
+      "Fesenjan (pomegranate and walnut stew)"
+    ],
+    "vibe": [
+      "warm and convivial",
+      "casual elegance",
+      "intimate",
+      "aromatic"
+    ],
+    "environment": "Mojgan brings authentic Persian and Middle Eastern cooking to Lyon's historic Old Town, occupying a refined corner of rue Royale with the kind of assured simplicity that comes from deep culinary roots rather than trend-chasing. The kitchen balances robust spice work with careful technique, transforming humble ingredients into dishes of genuine character and depth.",
+    "shortcomings": [
+      "Limited seating and no reservations policy can create wait times during peak service, especially weekends",
+      "Price-to-portion ratio edges toward the higher end for what is fundamentally casual dining, though ingredient quality justifies the cost"
+    ],
+    "itemId": 1000110
+  },
+  {
+    "name": "Le Petit Persan",
+    "location": "8 rue Longue, 69001 Lyon France",
+    "type": "Middle Eastern",
+    "food_style": "Middle Eastern, Persian",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Ghormeh sabzi",
+      "Tahdig (crispy saffron rice)",
+      "Kebab koobideh"
+    ],
+    "vibe": [
+      "warm and informal",
+      "neighborhood-focused",
+      "aromatic",
+      "convivial"
+    ],
+    "environment": "Le Petit Persan brings the layered flavors of Persian and broader Middle Eastern cooking to the heart of Lyon's Vieux Town, offering a refreshing counterpoint to the city's traditional Lyonnaise establishments. The kitchen demonstrates clear technical skill in spice-blending and slow-cooked preparations, executed at a price point that feels fair for the technique involved. This is unpretentious, flavor-forward dining that appeals equally to locals seeking something beyond bouchon fare and travelers craving authentic regional dishes.",
+    "shortcomings": [
+      "Service can be slow during peak hours, with occasional lapses in attentiveness despite good intentions",
+      "Limited wine list and minimal French selections—the beverage program doesn't quite match the sophistication of the food"
+    ],
+    "itemId": 1000111
+  },
+  {
+    "name": "Restaurant Alyssaar Syrien",
+    "location": "29 rue du Bat D Argent, 69001 Lyon France",
+    "type": "Middle Eastern",
+    "food_style": "Middle Eastern, Mediterranean",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "kibbeh",
+      "hummus enriched with pine nuts and spiced oil",
+      "grilled lamb dishes with za'atar and fresh herbs"
+    ],
+    "vibe": [
+      "warm",
+      "convivial",
+      "casual-elegant",
+      "neighborhood-focused"
+    ],
+    "environment": "Alyssaar Syrien brings levantine and broader Middle Eastern flavors to Lyon's Vieux Lyon district with genuine technique and respect for regional traditions. The 4.5-star rating across 135 reviews suggests a restaurant that has earned trust through consistency rather than novelty, offering Mediterranean-inflected Middle Eastern cooking in a setting that prioritizes hospitality over spectacle.",
+    "shortcomings": [
+      "service can feel stretched during peak hours given the popularity",
+      "the €€-€€€ pricing occasionally feels misaligned with portion sizes, particularly for seafood-forward dishes"
+    ],
+    "itemId": 1000112
+  },
+  {
+    "name": "Le Palais Des Tajines",
+    "location": "44 rue Rachais, 69007 Lyon France",
+    "type": "Moroccan",
+    "food_style": "Moroccan, Mediterranean, Middle Eastern",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Tajine d'agneau aux pruneaux",
+      "Couscous royal",
+      "Pastilla au pigeon"
+    ],
+    "vibe": [
+      "warm and convivial",
+      "earthy",
+      "casual-elegant",
+      "aromatic"
+    ],
+    "environment": "Le Palais Des Tajines brings the layered spice and slow-cooked soul of Morocco to the Gerland neighbourhood, operating with the unpretentious generosity that defines Lyon's eating culture. The kitchen treats tagines, couscous, and grilled meats with respect for technique while remaining refreshingly unbeholden to fine-dining affectation.",
+    "shortcomings": [
+      "Service can be slow during peak hours—patience is required, though the pace reflects genuine kitchen care rather than negligence.",
+      "The modest € price point means tight seating and minimal table-turning buffer; groups expecting leisurely dining may feel subtly rushed."
+    ],
+    "itemId": 1000113
+  },
+  {
+    "name": "L'Etoile d'Orient",
+    "location": "31 rue des Remparts D Ainay, 69002 Lyon France",
+    "type": "Moroccan",
+    "food_style": "Moroccan, Mediterranean, Middle Eastern, Tunisian",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "tajine d'agneau aux pruneaux",
+      "pastilla au poulet",
+      "couscous royal"
+    ],
+    "vibe": [
+      "warm and spiced",
+      "intimate",
+      "convivial",
+      "earthy"
+    ],
+    "environment": "L'Etoile d'Orient brings the fragrant, layered cooking of Morocco and the broader Levantine world to the Ainay district with confident, unfussy execution. The kitchen respects the aromatic complexity of North African cuisine—the interplay of cinnamon, coriander, and preserved lemon—while acknowledging Mediterranean and Tunisian inflections, creating a dining experience that feels both rooted and conversational.",
+    "shortcomings": [
+      "Service can be uneven during peak hours, with waits between courses occasionally testing patience",
+      "Price-to-portion ratio tilts toward the higher end for the neighborhood, particularly for meat-forward dishes"
+    ],
+    "itemId": 1000114
+  },
+  {
+    "name": "Le Petit Dauphin",
+    "location": "Rue Notre Dame, 69006 Lyon France",
+    "type": "Moroccan",
+    "food_style": "Moroccan, Mediterranean",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Tagine d'agneau aux pruneaux",
+      "Couscous royal",
+      "Pâtisseries maison"
+    ],
+    "vibe": [
+      "warm-spiced",
+      "intimate",
+      "convivial",
+      "neighborhood-focused"
+    ],
+    "environment": "Le Petit Dauphin brings the fragrant, layered complexity of Moroccan cuisine to Lyon's 6th arrondissement with a Mediterranean sensibility that feels both grounded and refined. This modest space trades spectacle for authenticity, drawing locals seeking genuine tagines and couscous rather than tourist-oriented interpretations.",
+    "shortcomings": [
+      "Service pacing can feel leisurely, which some diners find refreshing and others find slow",
+      "Limited wine list with few natural or orange options to pair with spiced dishes"
+    ],
+    "itemId": 1000115
+  },
+  {
+    "name": "L'Emir aux mille et une nuits",
+    "location": "44 quai Saint Vincent, 69001 Lyon France",
+    "type": "Moroccan",
+    "food_style": "Moroccan, Mediterranean",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Tajine d'agneau aux pruneaux",
+      "Pastilla au poulet",
+      "Couscous royal"
+    ],
+    "vibe": [
+      "exotic",
+      "intimate",
+      "candlelit",
+      "warm spices"
+    ],
+    "environment": "L'Emir aux mille et une nuits transports diners to the Maghreb through fragrant tagines and intricate spice work, anchored on the atmospheric quai Saint Vincent. This is Moroccan dining with Mediterranean inflections, where the kitchen respects tradition while remaining accessible to Lyon's eclectic palate.",
+    "shortcomings": [
+      "Service pace can feel leisurely during peak hours, testing patience on busy evenings",
+      "Pricing creeps toward three stars for portions that, while well-executed, don't always justify the upper end of the range"
+    ],
+    "itemId": 1000116
+  },
+  {
+    "name": "Miraflores",
+    "location": "112/114 Boulevard des Belges, 69006 Lyon France",
+    "type": "Peruvian",
+    "food_style": "Peruvian, Latin, Contemporary, Fusion",
+    "rating": 4.5,
+    "price_range": "€€€€",
+    "signatures": [
+      "Ceviche de pez blanco",
+      "Causa limeña",
+      "Tiradito with ají amarillo"
+    ],
+    "vibe": [
+      "cosmopolitan",
+      "contemporary-elegant",
+      "ingredient-focused",
+      "upscale-casual"
+    ],
+    "environment": "Miraflores brings Peruvian coastal refinement to Lyon's Boulevard des Belges, where ceviches and crudo take on a European precision without losing their assertive South American soul. This is haute cuisine rooted in Peru's Pacific traditions—expect sophisticated plating, carefully sourced fish, and the kind of attention to detail that justifies the four-star price point.",
+    "shortcomings": [
+      "At €€€€ pricing, portions can feel austere for the investment—more emphasis on visual presentation than satiety",
+      "High price point and contemporary-fusion positioning may alienate diners seeking traditional bouchon comfort or casual Peruvian informality"
+    ],
+    "itemId": 1000117
+  },
+  {
+    "name": "La Cevichela",
+    "location": "18 rue de Bonald, 69007 Lyon France",
+    "type": "Peruvian",
+    "food_style": "Peruvian, Seafood",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "ceviche classique",
+      "tiradito de pescado blanco",
+      "causas de atún"
+    ],
+    "vibe": [
+      "casual-vibrant",
+      "seafood-focused",
+      "neighborhood-friendly",
+      "lively"
+    ],
+    "environment": "La Cevichela brings authentic Peruvian coastal cuisine to Lyon's 7th arrondissement, anchored by impeccably fresh ceviche and crudo preparations that command respect. The restaurant captures the informal energy of Lima's seafood stalls while maintaining the precision expected in a French dining context, offering diners a genuine detour from traditional Lyonnais fare.",
+    "shortcomings": [
+      "Limited seating and no reservations policy can mean lengthy waits during peak dinner hours",
+      "Pricing at this level feels high for what is essentially casual seafood preparation, though ingredient quality justifies it"
+    ],
+    "itemId": 1000118
+  },
+  {
+    "name": "Domeva Caffe",
+    "location": "24 rue de Bourgogne Angle Rue de la Corderie, 69009 Lyon France",
+    "type": "Pizza",
+    "food_style": "Pizza, Italian, French, Mediterranean, European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pizza napoletana or pizza al taglio",
+      "Pâtes fraîches",
+      "Risotto or Mediterranean fish specials"
+    ],
+    "vibe": [
+      "casual-contemporary",
+      "buzzing",
+      "neighbourhood-focused",
+      "laid-back",
+      "approachable"
+    ],
+    "environment": "Domeva Caffe anchors the corner of rue de Bourgogne with unpretentious Italian-Mediterranean cooking centered on wood-fired pizza, drawing steady local traffic with its straightforward execution and convivial energy. The kitchen respects Italian fundamentals while staying flexible enough to accommodate French and broader European tastes—a pragmatic approach that works well in Lyon's ninth arrondissement. The 4.5-star consensus across 344 reviews suggests reliable, honest cooking that satisfies without pretension.",
+    "shortcomings": [
+      "At €€-€€€ pricing, value can feel stretched during peak hours when service pace quickens and plating attention softens.",
+      "Corner location and local popularity mean noise and crowding during evening service; not ideal for intimate conversation or a tranquil meal."
+    ],
+    "itemId": 1000119
+  },
+  {
+    "name": "Hape",
+    "location": "22 rue Hippolyte Flandrin, 69001 Lyon France",
+    "type": "Pizza",
+    "food_style": "Pizza, Italian, European, Healthy",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pizza with seasonal vegetables and burrata",
+      "Pappardelle with wild mushrooms",
+      "Wood-fired risotto with local produce"
+    ],
+    "vibe": [
+      "modern-casual",
+      "contemporary",
+      "ingredient-focused",
+      "unpretentious",
+      "neighborhood-friendly"
+    ],
+    "environment": "Hape brings a refined approach to pizza and Italian cooking in the heart of Vieux Lyon, moving beyond Neapolitan dogma without losing respect for tradition. The kitchen balances quality European ingredients with lighter, health-conscious preparations—a sensible evolution for contemporary diners who want flavor without heaviness.",
+    "shortcomings": [
+      "Mid-range pricing (€€-€€€) for pizza can feel steep when portions don't match expectations; value perception varies by dish",
+      "The neighborhood location on rue Hippolyte Flandrin draws crowds during peak hours, potentially affecting table turnover and service pace"
+    ],
+    "itemId": 1000120
+  },
+  {
+    "name": "A Nos Mères",
+    "location": "32 cours Gambetta, 69007 Lyon France",
+    "type": "Pizza",
+    "food_style": "Pizza, Italian, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "pizza with locally-sourced charcuterie",
+      "pizza bianca or margherita with French cheese",
+      "house pasta or Italian antipasti"
+    ],
+    "vibe": [
+      "casual-refined",
+      "neighborhood-focused",
+      "wood-fired",
+      "convivial"
+    ],
+    "environment": "A Nos Mères bridges the gap between Lyon's bouchon tradition and contemporary Italian pizzeria culture, likely named as a nod to the maternal, unpretentious ethos of classic Lyonnaise dining. Located on the vibrant cours Gambetta, it signals a restaurant that respects both wood-fired technique and French-Italian culinary conversation, avoiding the purely nostalgic trap while maintaining approachability.",
+    "shortcomings": [
+      "Limited wine program typical of pizza-focused venues—expect straightforward Italian selections rather than deep Rhône exploration",
+      "Moderate seating capacity on a busy street means reservations are essential, particularly weekends; walk-ins may face waits"
+    ],
+    "itemId": 1000121
+  },
+  {
+    "name": "The Smoking Dog Pub",
+    "location": "16, rue Lainerie, Lyon France",
+    "type": "Pub",
+    "food_style": "Pub, British",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Fish and Chips",
+      "Guinness beef stew",
+      "Scotch eggs"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "wood-lined",
+      "late-night"
+    ],
+    "environment": "The Smoking Dog Pub anchors itself in Lyon's Vieux-Ville with straightforward British hospitality—a counterpoint to the city's classical gastronomic traditions. Expect honest ales, hearty pints, and the kind of comfort food that rewards evening socializing without ceremony.",
+    "shortcomings": [
+      "Service can slow during peak hours; casual enough to feel occasionally scattered rather than attentive",
+      "Price-to-portion ratio veers toward tourist markup in high season; value proposition strongest for drinks rather than full meals"
+    ],
+    "itemId": 1000122
+  },
+  {
+    "name": "Wallace Pub",
+    "location": "8 rue de la Claire, 69009 Lyon France",
+    "type": "Pub",
+    "food_style": "Pub, Irish, Brew Pub, Bar",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "Fish and chips",
+      "Irish stew",
+      "burgers maison"
+    ],
+    "vibe": [
+      "convivial",
+      "casual",
+      "unpretentious",
+      "lively",
+      "neighborhood-focused"
+    ],
+    "environment": "Wallace Pub anchors itself in the Vaise neighborhood as a straightforward Irish pub where craft beers and simple fare take precedence over culinary ambition. It's the kind of place where regulars know the bartenders and conversation flows as readily as the pints, offering respite from Lyon's heavier gastronomic traditions with honest, no-frills hospitality.",
+    "shortcomings": [
+      "Limited kitchen scope—don't expect innovation or seasonal refinement, just reliable comfort food",
+      "Noise levels can become overwhelming during peak evening hours, making intimate conversation difficult"
+    ],
+    "itemId": 1000123
+  },
+  {
+    "name": "405 Bar à bières",
+    "location": "9 rue Constantine, 69001 Lyon France",
+    "type": "Pub",
+    "food_style": "Pub",
+    "rating": 4.0,
+    "price_range": "€",
+    "signatures": [
+      "Bières artisanales (craft beers on rotation)",
+      "Planches de charcuterie et fromage"
+    ],
+    "vibe": [
+      "casual",
+      "convivial",
+      "unpretentious",
+      "bustling",
+      "local"
+    ],
+    "environment": "405 Bar à bières is a straightforward pub anchored in Lyon's 1st arrondissement, built on the fundamentals of good beer selection and approachable hospitality rather than culinary ambition. Located on rue Constantine, it serves as the kind of neighbourhood watering hole where regulars settle in for rounds and conversation, with a relaxed atmosphere that prioritizes comfort over formality.",
+    "shortcomings": [
+      "Food is secondary to beverages—don't expect gastronomic depth or complexity in the kitchen",
+      "Peak hours can feel crowded and loud, making intimate conversation difficult"
+    ],
+    "itemId": 1000124
+  },
+  {
+    "name": "Sainte Russie",
+    "location": "Rue Juiverie, Lyon France",
+    "type": "Russian",
+    "food_style": "Russian, Eastern European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pelmeni",
+      "Stroganoff de boeuf",
+      "Piroshki"
+    ],
+    "vibe": [
+      "intimate",
+      "old-world charm",
+      "convivial",
+      "nostalgic"
+    ],
+    "environment": "Sainte Russie brings the warmth of Russian hospitality to Lyon's historic Rue Juiverie, offering hearty Eastern European fare in a setting that evokes pre-Soviet elegance. The kitchen honors tradition while maintaining surprising refinement, drawing both curious diners and devoted regulars who appreciate authenticity over flash.",
+    "shortcomings": [
+      "Service can be uneven during peak hours, sometimes feeling stretched thin despite genuine warmth",
+      "The €€-€€€ range climbs quickly once you add wine or vodka selections, potentially disappointing budget-conscious visitors expecting casual pricing"
+    ],
+    "itemId": 1000125
+  },
+  {
+    "name": "La Cabane à Huitres",
+    "location": "128 rue Boileau, 69006 Lyon France",
+    "type": "Seafood",
+    "food_style": "Seafood, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Huîtres de Bretagne",
+      "Plateau de fruits de mer",
+      "Moules marinières"
+    ],
+    "vibe": [
+      "casual-seafaring",
+      "neighborhood-casual",
+      "convivial",
+      "unpretentious"
+    ],
+    "environment": "La Cabane à Huîtres anchors itself in Lyon's seafood tradition with a refreshingly straightforward approach—expect raw bars laden with oysters and crustaceans rather than elaborate preparations. The name itself signals the philosophy: a modest cabin devoted to the sea's simplest treasures, where quality ingredients speak louder than technique.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours, with tables packed closely and staff stretched thin",
+      "Price-to-portion ratio leans upward for what remains fundamentally a casual, ingredient-focused operation—oyster bars always test wallets"
+    ],
+    "itemId": 1000126
+  },
+  {
+    "name": "L'huitrier",
+    "location": "245 rue Marcel Merieux, 69007 Lyon France",
+    "type": "Seafood",
+    "food_style": "Seafood, French",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Huîtres fines de claires",
+      "Plateau de fruits de mer",
+      "Bouillabaisse à la lyonnaise"
+    ],
+    "vibe": [
+      "casual-elegant",
+      "maritime",
+      "convivial",
+      "neighborhood-focused"
+    ],
+    "environment": "L'huitrier specializes in impeccably fresh seafood with a straightforward French approach—no theatrical plating, just pristine oysters, langoustines, and daily catches prepared to let their quality shine. Located in the Gerland district, it occupies that sweet spot between casual bistro and proper restaurant, where locals and serious seafood enthusiasts converge over unpretentious plates and honest wine pairings.",
+    "shortcomings": [
+      "Service can lag during peak hours, reflecting the owner's prioritization of food quality over pacing",
+      "Price-to-portion ratio tilts pricey for simpler dishes like grilled fish; raw preparations offer better value"
+    ],
+    "itemId": 1000127
+  },
+  {
+    "name": "La Barque Bleue",
+    "location": "88 rue de Crequi, 69006 Lyon France",
+    "type": "Seafood",
+    "food_style": "Seafood",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Bouillabaisse or fish soup",
+      "Grilled branzino",
+      "Plateau de fruits de mer"
+    ],
+    "vibe": [
+      "casual-nautical",
+      "neighborhood-focused",
+      "unpretentious",
+      "lively"
+    ],
+    "environment": "La Barque Bleue brings straightforward seafood cooking to the Croix-Rousse district, eschewing pretension in favor of honest preparations and reliable execution. The modest setting and moderate pricing attract locals seeking quality fish and shellfish without the formality of haute cuisine.",
+    "shortcomings": [
+      "Service can be slow during peak hours, typical of neighborhood bistros that prioritize cooking over front-of-house coordination",
+      "Limited seating and inconsistent availability mean reservations are essential; walk-ins may face long waits or disappointment"
+    ],
+    "itemId": 1000128
+  },
+  {
+    "name": "Maison Rousseau",
+    "location": "102 cours la Fayette Halles de Lyon - Paul Bocuse, 69003 Lyon France",
+    "type": "Seafood",
+    "food_style": "Seafood, French",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Plateau de fruits de mer",
+      "Bouillabaisse à la lyonnaise",
+      "Sole meunière"
+    ],
+    "vibe": [
+      "market-fresh",
+      "casual-refined",
+      "bustling",
+      "ingredient-focused"
+    ],
+    "environment": "Maison Rousseau capitalizes on its prime location within the legendary Halles de Lyon Paul Bocuse, offering seafood preparations that honor the market's daily catches without pretension. The kitchen prioritizes raw materials over elaborate technique, reflecting Lyon's pragmatic approach to gastronomy where quality ingredients speak for themselves.",
+    "shortcomings": [
+      "The location inside the market hall means limited atmosphere control—noise and foot traffic can overwhelm intimate dining moments, particularly during peak hours.",
+      "At €€-€€€ pricing, value perception varies sharply depending on the daily catch availability and whether diners expect full fine-dining service or market-style efficiency."
+    ],
+    "itemId": 1000129
+  },
+  {
+    "name": "La Movida",
+    "location": "7 rue de la Part Dieu, 69002 Lyon France",
+    "type": "Spanish",
+    "food_style": "Spanish, Latin",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "jamón ibérico preparations",
+      "croquetas (likely jamón or seafood variants)",
+      "grilled Spanish seafood with pan or romesco"
+    ],
+    "vibe": [
+      "energetic",
+      "convivial",
+      "contemporary-rustic",
+      "cocktail-forward"
+    ],
+    "environment": "La Movida brings Iberian verve to Part-Dieu with a menu anchored in Spanish and Latin traditions, executed with enough precision to justify its mid-to-upper price positioning. The restaurant balances tapas-style informality with more composed plated dishes, creating a setting where groups naturally linger over shared plates and wine.",
+    "shortcomings": [
+      "at €€-€€€ pricing, portion sizes can feel modest for solo diners or those unfamiliar with tapas culture",
+      "proximity to Part-Dieu business district means midweek lunch and early evening service may skew corporate rather than leisurely"
+    ],
+    "itemId": 1000130
+  },
+  {
+    "name": "Pepito Bellota",
+    "location": "83 rue Boileau, 69006 Lyon France",
+    "type": "Spanish",
+    "food_style": "Spanish",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "jamón ibérico",
+      "croquetas de jamón",
+      "rabo de toro"
+    ],
+    "vibe": [
+      "warm and convivial",
+      "casual-elegant",
+      "wood-accented",
+      "neighborhood favorite"
+    ],
+    "environment": "Pepito Bellota brings authentic Spanish flavors to Lyon's Presqu'île district with a focus on Iberian charcuterie and regional preparations. The restaurant balances rustic charm with polished execution, offering diners a genuine taste of Spain without pretension or theatricality.",
+    "shortcomings": [
+      "Moderate noise levels during peak hours can make intimate conversation challenging",
+      "Pricing sits at the higher end of casual Spanish dining; portions, while generous, reflect this cost structure"
+    ],
+    "itemId": 1000131
+  },
+  {
+    "name": "Le Comptoir des Halles",
+    "location": "102 cours Lafayette Les Halles de Lyon - Paul Bocuse, 69003 Lyon France",
+    "type": "Spanish",
+    "food_style": "Spanish",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "jamón ibérico",
+      "pulpo à la gallega",
+      "croquetas de jamón"
+    ],
+    "vibe": [
+      "convivial",
+      "market-adjacent",
+      "casual-elegant",
+      "buzzing"
+    ],
+    "environment": "Nestled within the legendary Les Halles de Lyon Paul Bocuse food market, Le Comptoir des Halles brings Spanish cuisine to one of France's most storied gastronomic addresses. The restaurant trades on proximity to prime ingredients and a relaxed energy that contrasts with traditional bouchon formality, offering tapas and Spanish plates in a setting where you can smell the market's vitality just outside the door.",
+    "shortcomings": [
+      "service can be inconsistent during peak market hours when staff are stretched thin",
+      "pricing skews toward the upper end for what is fundamentally casual Spanish bar food, potentially compromising value perception"
+    ],
+    "itemId": 1000132
+  },
+  {
+    "name": "Milonga",
+    "location": "59 rue Ney, 69006 Lyon France",
+    "type": "Steakhouse",
+    "food_style": "Steakhouse, Latin, Argentinian, Spanish, South American",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Côte de boeuf grillée",
+      "Choripán",
+      "Chimichurri-dressed grilled vegetables"
+    ],
+    "vibe": [
+      "vibrant",
+      "convivial",
+      "meat-centric",
+      "latin-inflected"
+    ],
+    "environment": "Milonga brings Argentine steakhouse tradition to Lyon's Presqu'île district with genuine commitment to grilled meats and South American spirit rather than French refinement. The kitchen honors asado culture while respecting local palates, offering a welcome alternative to the city's bouchon-dominated dining scene.",
+    "shortcomings": [
+      "Service can feel stretched during peak hours; pacing between courses occasionally uneven despite good intentions",
+      "At the upper end of €€€, the wine list leans heavily toward Argentine selections, leaving fewer compelling French alternatives for traditionalists"
+    ],
+    "itemId": 1000133
+  },
+  {
+    "name": "Hemingway's",
+    "location": "1 Grande rue des Feuillants, 69001 Lyon France",
+    "type": "Steakhouse",
+    "food_style": "Steakhouse, Latin, International, Wine Bar, European, Asian",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Côte de boeuf grillée",
+      "Entrécôte avec sauce béarnaise",
+      "Grilled fish with Asian-inspired glaze"
+    ],
+    "vibe": [
+      "cosmopolitan",
+      "sophisticated",
+      "modern-relaxed",
+      "wine-focused",
+      "bustling"
+    ],
+    "environment": "Hemingway's occupies an unusual middle ground in Lyon's dining landscape—a steakhouse with unexpected breadth, blending North American beef culture with touches of Latin and Asian influences that reflect contemporary international tastes. Located on the prestigious Grande rue des Feuillants in Vieux Lyon, it trades heavily on its literary namesake while maintaining an approachable, non-stuffy demeanor that appeals equally to business diners and casual carnivores.",
+    "shortcomings": [
+      "The ambitious multi-cuisine reach (Latin, Asian, International alongside core steakhouse offerings) can dilute focus and consistency across the menu—not every element executes with equal conviction.",
+      "At the mid-to-upper end of the price spectrum, the 4.0 rating suggests occasional service timing issues or inconsistency in execution that prevents it from commanding premium pricing confidence."
+    ],
+    "itemId": 1000134
+  },
+  {
+    "name": "Sabai Sabai",
+    "location": "4 Petite rue des Feuillants, 69001 Lyon France",
+    "type": "Street Food",
+    "food_style": "Street Food, Asian, Thai, Vietnamese, Healthy",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Pad Thai",
+      "Bánh mì",
+      "Som tam"
+    ],
+    "vibe": [
+      "casual",
+      "vibrant",
+      "fast-paced",
+      "unpretentious",
+      "countertop-centric"
+    ],
+    "environment": "Sabai Sabai brings Southeast Asian street food energy to Lyon's compact Vieux Lyon, stripping away formality in favor of authentic Thai and Vietnamese flavors executed with genuine care. The focus is on quick, honest eating—the kind of place where quality ingredients matter more than plating, and where regulars know exactly what they're ordering before stepping up to the counter.",
+    "shortcomings": [
+      "Limited seating and no reservations mean peak lunch and dinner crowds can mean standing or a wait, which conflicts with the grab-and-go format",
+      "Minimal table service and DIY condiment approach suits the model but may disappoint those seeking attentive hospitality"
+    ],
+    "itemId": 1000135
+  },
+  {
+    "name": "Hank Burger Lyon Opera",
+    "location": "5 rue Pizay, 69001 Lyon France",
+    "type": "Street Food",
+    "food_style": "Street Food, American, Fast food",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Signature burger selections with house-cured meats",
+      "Handmade patties with local produce accents",
+      "Loaded fries and house-made sauces"
+    ],
+    "vibe": [
+      "casual-modern",
+      "lunch-crowd-friendly",
+      "quick-service-upbeat",
+      "street-food-authentic",
+      "opera-district-chic"
+    ],
+    "environment": "Hank Burger Lyon Opera brings unapologetic American street food energy to the elegant Opéra district, trading haute cuisine pretension for meticulously crafted burgers and honest comfort fare. The spot thrives on quality beef, fresh toppings, and a refreshingly unpretentious approach—a welcome counterpoint to Lyon's bouchon traditions, though still respecting the city's ingredient-driven ethos.",
+    "shortcomings": [
+      "Limited seating and high turnover during peak lunch hours can feel rushed",
+      "Price creep toward €€€ territory for what remains street food may surprise budget-conscious diners"
+    ],
+    "itemId": 1000136
+  },
+  {
+    "name": "Kome",
+    "location": "4 rue Lanterne, 69001 Lyon France",
+    "type": "Sushi",
+    "food_style": "Sushi, Japanese, Healthy, Japanese sweets parlour, Japanese Fusion",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "nigiri assortment with regional fish sourcing",
+      "omakase or chef's selection menu",
+      "Japanese fusion dishes reflecting seasonal availability"
+    ],
+    "vibe": [
+      "contemporary",
+      "precise",
+      "intimate",
+      "minimalist",
+      "buzzing"
+    ],
+    "environment": "Kome occupies a refined corner of Vieux Lyon's rue Lanterne, where Japanese precision meets Lyon's gastronomic expectations. The kitchen channels careful technique into sushi and fusion preparations that respect both tradition and local ingredient sensibilities, offering a departure from the region's heavy bouchon fare without abandoning its respect for craft.",
+    "shortcomings": [
+      "pricing at the upper end of mid-range can feel steep for portions in a compact venue",
+      "capacity constraints on rue Lanterne mean reservations are nearly essential during peak hours, limiting walk-in flexibility"
+    ],
+    "itemId": 1000137
+  },
+  {
+    "name": "La Maison Thai",
+    "location": "85 rue Massena, 69006 Lyon France",
+    "type": "Thai",
+    "food_style": "Thai, Asian",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pad Thaï aux crevettes",
+      "Curry rouge traditionnel",
+      "Salade de papaye verte"
+    ],
+    "vibe": [
+      "casual-upscale",
+      "warmly-lit",
+      "convivial",
+      "unpretentious"
+    ],
+    "environment": "La Maison Thai brings authentic Southeast Asian cooking to the Presqu'île district with a refined but approachable sensibility—neither fussy nor overly touristy. The kitchen respects traditional Thai technique while calibrating heat and complexity for a mixed Lyon clientele, making it a reliable destination for those seeking genuine flavor without theatrical presentation.",
+    "shortcomings": [
+      "Service can lag during peak hours despite attentive staff, suggesting occasional understaffing.",
+      "Mid-range pricing (€€-€€€) places it above casual Thai spots but below destination-dining expectations—value perception depends heavily on portion sizes and execution on the night."
+    ],
+    "itemId": 1000138
+  },
+  {
+    "name": "Pitaya Lyon",
+    "location": "9 rue des Marronniers, 69002 Lyon France",
+    "type": "Thai",
+    "food_style": "Thai, Asian",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pad Thai aux crevettes",
+      "Curry rouge à la viande",
+      "Soupe Tom Yam",
+      "Poulet au basilic thaï"
+    ],
+    "vibe": [
+      "casual-elegant",
+      "intimate",
+      "buzzing",
+      "modern-minimalist",
+      "approachable"
+    ],
+    "environment": "Pitaya Lyon brings authentic Thai cooking to the Presqu'île district with a refined but unpretentious approach that respects both tradition and the palates of a French clientele. The dining room balances contemporary restraint with warmth, creating a space where serious flavor work doesn't demand theatrical presentation. It's the kind of place that takes technique seriously without taking itself too seriously.",
+    "shortcomings": [
+      "Moderate pricing for portions that can feel slightly modest, especially at the higher end of their range—a common friction point when French diners expect substantial value",
+      "Service pace can be uneven during peak hours, occasionally leaving tables without water refills or lingering between courses"
+    ],
+    "itemId": 1000139
+  },
+  {
+    "name": "Saveurs D'orient",
+    "location": "46 cours Charlemagne, 69002 Lyon France",
+    "type": "Turkish",
+    "food_style": "Turkish, Middle Eastern",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Adana kebab",
+      "Hummus maison",
+      "Baklava aux pistaches"
+    ],
+    "vibe": [
+      "warm and convivial",
+      "casual-elegant",
+      "aromatic",
+      "neighborhood-focused"
+    ],
+    "environment": "Saveurs D'orient brings the layered spice and hospitality of Turkish and Levantine cooking to Presqu'île, with a no-fuss approach that honors technique over pretension. The kitchen balances generous portions with refined flavor work—expect properly charred kebabs, delicate mezze, and house-made pastries that justify the solid 4.5-star consensus among 135 diners.",
+    "shortcomings": [
+      "Service can feel stretched during peak hours, occasionally slow to refill water or clear plates",
+      "Noise level rises sharply with crowds; not ideal for quiet conversation on busy evenings"
+    ],
+    "itemId": 1000140
+  },
+  {
+    "name": "Semazen",
+    "location": "63 Place Voltaire, 69003 Lyon France",
+    "type": "Turkish",
+    "food_style": "Turkish",
+    "rating": 4.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Kebab de viande grillée au charbon",
+      "Mantı aux épices et yaourt",
+      "Pâtisseries turques faites maison"
+    ],
+    "vibe": [
+      "convivial",
+      "unpretentious",
+      "aromatic",
+      "neighborhood-forward"
+    ],
+    "environment": "Semazen brings the warmth of Turkish hospitality to Place Voltaire, a neighborhood square that feels worlds away from Lyon's tourist core. The kitchen honors traditional techniques—slow-cooked stews, charcoal-grilled meats, hand-rolled pastries—without the self-consciousness that can plague ethnic restaurants in France. It's the kind of place where regulars know the owner's name and the kitchen adapts willingly to requests.",
+    "shortcomings": [
+      "Service can lag during peak hours, particularly on weekends when the small dining room fills quickly",
+      "Price climbs noticeably if you order beyond the basics—mezze platters and premium grilled meats push toward €€€"
+    ],
+    "itemId": 1000141
+  },
+  {
+    "name": "Namdo",
+    "location": "152 Cours Lafayette, 69005 Lyon France",
+    "type": "Vietnamese",
+    "food_style": "Vietnamese",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Phở bò",
+      "Bánh mì thịt nướng",
+      "Gỏi cuốn"
+    ],
+    "vibe": [
+      "casual",
+      "neighborhood",
+      "brisk",
+      "unpretentious"
+    ],
+    "environment": "Namdo brings straightforward Vietnamese cooking to the Quai Saint-Antoine district, where it operates without fanfare or elaborate presentation. The kitchen honors essential techniques—aromatic broths, balanced acid, careful herb work—rather than chasing novelty, making it a reliable anchor for those seeking authentic pho and bánh mì in Lyon.",
+    "shortcomings": [
+      "Service can feel rushed during peak hours, with limited capacity making reservations essential on weekends.",
+      "Decor is spartan and the dining room lacks character; the appeal rests entirely on food quality rather than ambiance."
+    ],
+    "itemId": 1000142
+  },
+  {
+    "name": "Chateauneuf du Peuple",
+    "location": "12 rue Lainerie Saint-Paul, Vieux-Lyon, 5eme, 69005 Lyon France",
+    "type": "Wine Bar",
+    "food_style": "Wine Bar, French",
+    "rating": 5.0,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Charcuterie boards paired with natural wines",
+      "Coq au vin",
+      "Cheese course with Rhône Valley selections"
+    ],
+    "vibe": [
+      "intimate",
+      "old-world charm",
+      "wine-focused",
+      "convivial"
+    ],
+    "environment": "Tucked into the narrow lanes of Vieux-Lyon's Saint-Paul quarter, Chateauneuf du Peuple is a wine bar that takes its bottles seriously while keeping the mood approachable and unhurried. The restaurant balances serious French wine knowledge with unpretentious bistro fare, creating the kind of place where conversation flows as freely as the wine list.",
+    "shortcomings": [
+      "Limited seating means reservations are nearly essential, especially evenings",
+      "Wine-centric pricing may overshadow the food value for those prioritizing cuisine over the cellar"
+    ],
+    "itemId": 1000143
+  },
+  {
+    "name": "Victoire & Thomas",
+    "location": "27 rue de l Arbre Sec, 69001 Lyon France",
+    "type": "Wine Bar",
+    "food_style": "Wine Bar",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "charcuterie & fromage boards",
+      "seasonal tartines",
+      "wine pairings by the glass"
+    ],
+    "vibe": [
+      "intimate",
+      "convivial",
+      "candlelit",
+      "wine-focused"
+    ],
+    "environment": "Victoire & Thomas occupies the wine-bar sweet spot on rue de l'Arbre Sec, combining serious bottle selection with approachable small plates that complement rather than overwhelm. The space feels like a natural gathering point for those who think about wine beyond the glass—expect knowledgeable staff and a clientele that lingers.",
+    "shortcomings": [
+      "Can feel cramped during peak hours; limited seating rewards early arrival",
+      "Price-to-portion ratio skews toward the premium side—substantial wine markup is standard but noticeable"
+    ],
+    "itemId": 1000144
+  },
+  {
+    "name": "L'Ange Di Vin",
+    "location": "13 rue de la Monnaie, 69002 Lyon France",
+    "type": "Wine Bar",
+    "food_style": "Wine Bar, French, European",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "charcuterie locale et fromages de région",
+      "quenelles lyonnaises",
+      "pâtés et terrines maison"
+    ],
+    "vibe": [
+      "intimate",
+      "convivial",
+      "wine-focused",
+      "unpretentious"
+    ],
+    "environment": "L'Ange Di Vin is a wine bar that honors Lyon's tradition of pairing excellent natural and regional wines with thoughtful French cuisine in a relaxed, neighbourhood setting. The 13 rue de la Monnaie address places it in the heart of the Presqu'île district, where the focus remains firmly on wine discovery rather than fine-dining theatrics—expect knowledgeable staff and a curated list that rewards exploration.",
+    "shortcomings": [
+      "Peak hours can feel cramped; limited seating means walk-ins may face waits or turnover pressure",
+      "Wine-bar format means food portions are intentionally modest—not ideal if you're seeking a full, hearty meal"
+    ],
+    "itemId": 1000145
+  },
+  {
+    "name": "Le Napolitain",
+    "location": "69 rue Ney 69 Rue Ney, 69006 Lyon France",
+    "type": "Wine Bar",
+    "food_style": "Wine Bar, Italian, Pizza",
+    "rating": 4.5,
+    "price_range": "€€-€€€",
+    "signatures": [
+      "Pizza napoletana",
+      "Antipasti misti",
+      "Vini naturali selections"
+    ],
+    "vibe": [
+      "casual-elegant",
+      "aperitivo-culture",
+      "convivial",
+      "wine-focused",
+      "neighborhood-feel"
+    ],
+    "environment": "Le Napolitain marries Lyon's convivial dining ethos with Italian wine-bar sensibilities, offering a refreshing counterpoint to the city's traditional bouchon restaurants. The €€-€€€ pricing and strong 4.5/5 rating suggest a kitchen that respects both wine pairings and honest Italian cooking—pizzas and lighter fare anchoring a list where the glass pours matter as much as the plate.",
+    "shortcomings": [
+      "Service can feel stretched during peak aperitivo hours, with occasional lapses in attentiveness",
+      "Wine list pricing occasionally pulls toward the steep side for casual wine-bar positioning—value-for-glass could be more generous"
+    ],
+    "itemId": 1000146
+  },
+  {
+    "name": "Mademoiselle Reve",
+    "location": "215 rue Vendome, 69003 Lyon France",
+    "type": "Wine Bar",
+    "food_style": "Wine Bar",
+    "rating": 4.5,
+    "price_range": "€",
+    "signatures": [
+      "Charcuterie boards with regional cured meats",
+      "Cheese selections paired with house recommendations",
+      "Small plates designed for wine pairing"
+    ],
+    "vibe": [
+      "intimate",
+      "conversational",
+      "wine-focused",
+      "modern-casual"
+    ],
+    "environment": "Mademoiselle Reve positions itself as a contemporary wine bar rather than a traditional bouchon, offering curated selections and a lighter, more approachable dining model centered on wine discovery. Located on rue Vendôme in the Presqu'île district, it caters to those seeking educated wine pairings without the heavy, meat-centric formality of classical Lyonnais gastronomy. The 4.5-star rating across 130 reviews suggests consistent execution in a competitive category where wine bars have proliferated.",
+    "shortcomings": [
+      "Single cuisine category (wine bar) may limit appeal for diners seeking substantive cooked dishes or full meals",
+      "Budget pricing (€) at a wine-focused venue can signal either value or constraint in wine quality/selection depth"
+    ],
+    "itemId": 1000147
+  }
+]
