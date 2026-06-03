@@ -1,18 +1,18 @@
 # Connoisseur Companion
 
-> A conversational AI agent that recommends California restaurants by name, cuisine, or vibe — powered by **Claude** and the **Model Context Protocol (MCP)**.
+> A conversational AI agent that recommends **Lyon restaurants** by name, cuisine, or vibe — powered by **Claude** and the **Model Context Protocol (MCP)**.
 
 ![Connoisseur Companion demo](docs/demo.png)
 
 ## What it does
 
-Connoisseur Companion is a small AI agent that helps users discover restaurants through natural conversation. You can ask things like:
+Connoisseur Companion is a small AI agent that helps users discover restaurants in Lyon, France, through natural conversation. You can ask things like:
 
-- *"Tell me about Iron & Embers."*
-- *"Find me a moody spot in DTLA."*
-- *"What's a zen dining experience in Little Tokyo?"*
+- *"Tell me about Daniel et Denise."*
+- *"Find me a cozy bouchon in Vieux Lyon."*
+- *"Recommande-moi un endroit pour un dîner romantique."*
 
-The agent decides on its own which tool to call (lookup, vibe search, or review fetcher), gets the data, and replies in plain language.
+The agent decides which tool to call (lookup, vibe search, or review fetcher), retrieves the data from a curated set of **~148 Lyon restaurants**, and replies in natural language.
 
 ## Architecture
 
@@ -52,10 +52,44 @@ The **MCP server** is reusable: any MCP-compatible client (this app, Claude Desk
 
 - **Python 3.12**
 - **Claude Haiku 4.5** via the Anthropic API (cheap, fast, and well-suited for tool use)
+- **Voyage AI** (`voyage-3-lite`) — 512-dim text embeddings for semantic restaurant search
 - **FastMCP** — Python framework for building MCP servers
 - **MCP Python SDK** — protocol implementation
 - **Gradio 5** — web chat interface
+- **pandas** — data exploration and pipeline transformations
 - **python-dotenv** — environment variable loader
+
+## Data Pipeline
+
+The dataset is built through a 5-step pipeline, fully reproducible from the Jupyter notebooks in `notebooks/`:
+
+```
+TripAdvisor European    Filter Lyon       Extract vibes       Generate reviews     Vector embeddings
+restaurants dataset  →  + quality      →  with Claude     →  with Claude       →  with Voyage-3-lite
+(1M+ restaurants)       (~148 selected)   (vibes,             (2 per restaurant,    (512-dim vectors)
+                                          signatures,         one positive,
+                                          descriptions)       one critical)
+```
+
+**Source**: [TripAdvisor European Restaurants on Kaggle](https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants) (~1M restaurants).
+
+**Filtering** (notebooks `02` and `03`): we filter for restaurants in Lyon, France with a rating ≥ 4.0 and ≥ 50 reviews, then use stratified sampling across primary cuisine types to preserve diversity (so the agent doesn't only recommend bouchons).
+
+**Enrichment** (notebook `04`): the TripAdvisor data lacks the kind of descriptive content needed for a conversational agent (atmosphere tags, signature dishes, honest shortcomings). For each restaurant, we prompt Claude Haiku to generate this enriched profile, grounded in the factual metadata (cuisine, price, rating). Results are saved incrementally to survive crashes.
+
+**Synthetic reviews** (notebook `05`): TripAdvisor's Kaggle export does not include review text, only aggregate statistics. We generate **two synthetic reviews per restaurant** with Claude (one positive-leaning, one critical-leaning) to provide variety. **These reviews are transparently synthetic** — they're labeled and don't claim to be from real users. The agent uses them via the `get_review` tool.
+
+**Vector embeddings** (notebooks `07` and `08`): each restaurant is converted to a 512-dimensional vector using Voyage AI's `voyage-3-lite` model. The embedding text combines name, cuisine, atmosphere tags, signature dishes, and shortcomings. These vectors will power semantic search in Phase 3 — a user asking for a "romantic candlelit dinner" will match restaurants tagged "intimate" or "cozy" even without word overlap. A UMAP projection in 2D confirms the embeddings cluster meaningfully by cuisine and atmosphere.
+
+**Total cost**: ~2 USD for the full pipeline. Embedding generation is essentially free (well under Voyage's 200M tokens free tier).
+
+## Semantic embeddings visualization
+
+Each restaurant in the catalogue is represented as a 512-dimensional vector. To verify these embeddings capture meaningful information, we project them to 2D using UMAP:
+
+![Restaurants in embedding space](docs/embeddings_umap.png)
+
+Restaurants with similar atmospheres and cuisines cluster together, confirming that the embeddings will support semantic queries effectively in Phase 3.
 
 ## Quick Start
 
@@ -82,15 +116,16 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Add your Anthropic API key
+### 4. Add your API keys
 
 Create a `.env` file at the project root:
 
 ```
 ANTHROPIC_API_KEY=sk-ant-api03-your-key-here
+VOYAGE_API_KEY=pa-your-key-here
 ```
 
-You can get a key at [console.anthropic.com](https://console.anthropic.com/).
+You can get an Anthropic key at [console.anthropic.com](https://console.anthropic.com/) and a Voyage AI key at [dashboard.voyageai.com](https://dashboard.voyageai.com/). The Lyon restaurant data is committed to the repo in `data/`, so you can run the app immediately without re-running the data pipeline. To rebuild the dataset from scratch, see the notebooks in `notebooks/`.
 
 ### 5. Run the app
 
@@ -115,54 +150,82 @@ The MCP server (`server.py`) exposes three tools:
 | Tool | Purpose |
 |---|---|
 | `get_restaurant_info` | Look up a restaurant by name |
-| `recommend_by_vibe` | Find restaurants matching a mood (e.g. *moody*, *zen*) |
+| `recommend_by_vibe` | Find restaurants matching a mood (e.g. *cozy*, *romantic*) |
 | `get_review` | Fetch a detailed review for a restaurant |
 
-A demo client (`client.py`) and a smoke test (`test.py`) are also included to verify the server works on its own, without the LLM in the loop.
+## Tests
+
+The MCP server is covered by an integration test suite using pytest and pytest-asyncio.
+
+To run the tests:
+
+```bash
+pip install -r requirements-dev.txt
+pytest
+```
+
+The suite spins up a fresh MCP server for each test, calls the tools through stdio, and asserts on the parsed JSON responses.
 
 ## Roadmap
 
-This project is built in phases. The current version is a working baseline; upcoming milestones:
+The project is built in phases:
 
-- [ ] Replace mock data with real **Yelp Open Dataset** entries
-- [ ] Add **semantic search** for vibe matching using sentence embeddings + a vector database (Chroma)
-- [ ] Add a `summarize_reviews` tool (mini-RAG over user reviews)
-- [ ] Build an evaluation set and report **recall@5** on vibe queries
-- [ ] Expose the MCP server over **HTTP/SSE** so it can be used by Claude Desktop and other remote clients
-- [ ] Containerize with Docker and deploy a live demo
+- [x] **Phase 1** — Clean baseline with mock data, MCP server, Gradio host, pytest suite
+- [x] **Phase 2** — Real Lyon restaurant data via TripAdvisor + Claude-augmented enrichment pipeline
+- [ ] **Phase 3** — Semantic search with embeddings and a vector database (Chroma)
+  - [x] Voyage-3-lite embeddings for all restaurants
+  - [x] UMAP visualization confirming semantic clustering
+  - [ ] Chroma vector database integration
+  - [ ] New `recommend_by_vibe_v2` tool with hybrid search
+  - [ ] New `summarize_reviews` tool (RAG pattern)
+- [ ] **Phase 4** — Deployment to Hugging Face Spaces and Claude Desktop integration
+- [ ] **Phase 5** — Evaluation metrics, observability, and multilingual support
 
 ## Project structure
 
 ```
 connoisseur-companion/
-├── connoisseur/                # Application code (package)
+├── connoisseur/                    # Application code (package)
 │   ├── __init__.py
-│   ├── app.py                  # Gradio host + ReAct loop
-│   └── server.py               # MCP server with 3 tools
+│   ├── app.py                      # Gradio host + ReAct loop
+│   └── server.py                   # MCP server with 3 tools
 │
-├── data/                       # Restaurant catalogue, reviews, culinary map
-│   ├── structured-restaurant-data.json
-│   ├── augmented-user-review.json
-│   └── California-Culinary-Map.txt
+├── notebooks/                      # Reproducible data pipeline
+│   ├── 01_explore_dataset.ipynb
+│   ├── 02_filter_and_select.ipynb
+│   ├── 03_extract_vibes_with_claude.ipynb
+│   ├── 04_generate_reviews_with_claude.ipynb
+│   ├── 05_export_to_server_format.ipynb
+│   ├── 06_explore_voyage_embeddings.ipynb
+│   └── 07_generate_embeddings.ipynb
 │
-├── tests/                      # pytest test suite
+├── data/                           # Production data served by the agent
+│   ├── lyon-restaurants.json       # ~148 enriched Lyon restaurants
+│   ├── lyon-reviews.json           # ~296 synthetic reviews
+│   ├── lyon-culinary-map.txt       # Free-text culinary guide
+│   ├── lyon-embeddings.json        # 512-dim Voyage embeddings
+│   ├── raw/                        # (gitignored) TripAdvisor source data
+│   └── processed/                  # (gitignored) intermediate pipeline outputs
+│
+├── tests/                          # pytest test suite
 │   ├── __init__.py
 │   └── test_server.py
 │
-├── docs/                       # Documentation assets
-│   └── demo.png
+├── docs/                           # Visual documentation
+│   ├── demo.png
+│   └── embeddings_umap.png         # 2D UMAP projection of all restaurants
 │
-├── .env                        # API keys (not committed)
+├── .env                            # API keys (not committed)
 ├── .gitignore
 ├── LICENSE
 ├── pytest.ini
 ├── README.md
-└── requirements.txt        # Dependencies
+└── requirements.txt            # Dependencies (pytest, jupyter, pandas, ...)
 ```
 
 ## Author
 
-**Said Arrazouaki**  
+**Said Arrazouaki**
 GitHub: [@Arrsaid](https://github.com/Arrsaid)
 
 ## License
